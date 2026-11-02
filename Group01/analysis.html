@@ -39,10 +39,26 @@
     </ul>
    
     
-    """
-    Falta la parte 3 del analysis
-    """
+    <h2>3. Estrategia de Nombrado de Recursos</h2>
+    <h3>3.1. Dominio Base</h3>
+    <p>Se establece un dominio base orientado al proyecto del grupo:</p>
+    <p><code><http://madrid-recarga.linkeddata.es/group06/></code></p>
 
+    <h3>3.2. Patrones de URIs</h3>
+    <ul>
+        <li><strong>Ontología:</strong> 
+            <br><code><http://madrid-recarga.linkeddata.es/group06/ontology#></code>
+            <br><em>Ejemplo de clase:</em> <code><http://madrid-recarga.linkeddata.es/group06/ontology#PuntoRecarga></code>
+        </li>
+        <li><strong>Instancias:</strong> 
+            <br><code>http://madrid-recarga.linkeddata.es/group06/resource/{tipo}/{id}</code>
+            <br><em>Ejemplo de instancia:</em> <code><http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/1></code>
+        </li>
+    </ul>
+
+    <h3>3.3. Negociación de Contenido</h3>
+    <p>El servidor web implementará mecanismos de negociación de contenido HTTP mediante las cabeceras <code>Accept</code>, dirigiendo a los usuarios hacia representaciones visuales en <strong>HTML</strong> y suministrando a los agentes software o aplicaciones semánticas formatos estructurados en RDF como <strong>Turtle</strong>.</p>
+    </ul>
     
 </body>
 </html>
