@@ -1,20 +1,11 @@
-# Self-assessment - Hands-on 3
+## Checklist de Tareas y Transformaciones
 
-## Group: Group01
+- **Importación del Dataset:** Sí. Se ha importado correctamente el dataset original de puntos de recarga de vehículos eléctricos en Madrid en OpenRefine asegurando la codificación UTF-8 y el delimitador adecuado.
+- **Análisis y Limpieza de Datos:** Sí. Se han revisado los hallazgos previos, aplicando facetas de texto y numéricas para detectar inconsistencias, eliminar espacios sobrantes y corregir valores erróneos o vacíos.
+- **Normalización y Transformación:** Sí. Se han utilizado algoritmos de agrupación (*clustering*) y transformaciones para unificar variantes tipográficas en campos clave (como operadores y distritos) y preparar los datos para la generación de RDF.
+- **Exportación de Operaciones:** Sí. Se ha extraído y guardado el historial completo de las operaciones aplicadas en OpenRefine en formato JSON.
 
-### Members:
-- Integrante 1
-- Integrante 2
-- Integrante 3
-- Integrante 4
-
-### Check-list of deliverables:
-- [x] **OpenRefine operations file:** Included in the `openrefine/` directory (`openrefine-operations.json`).
-- [x] **Updated CSV dataset:** Included in the `csv/` directory (`vehiculos_electricos-updated.csv`).
-- [x] **Self-assessment document:** `selfAssessmentHandsOn3.md` placed in the root of the group directory.
-
-### Brief description of data cleaning tasks performed:
-1. **Importación y Análisis Inicial:** Carga del archivo CSV original en OpenRefine configurando correctamente la codificación y los separadores para asegurar la lectura íntegra de los 122 registros de estaciones de recarga.
-2. **Normalización de Valores:** Detección de inconsistencias mediante facetas de texto en campos clave como operadores y distritos.
-3. **Limpieza y Clustering:** Aplicación de algoritmos de agrupación para unificar variantes tipográficas y corregir celdas vacías o malformadas.
-4. **Exportación de Ficheros:** Generación y exportación del historial de operaciones en formato JSON y obtención del dataset limpio en formato CSV actualizado.
+## Entregables en GitHub
+- [x] Fichero JSON con las operaciones de OpenRefine (`openrefine/*.json` bajo el directorio `openrefine/`).
+- [x] Fichero CSV con la versión actualizada y limpia del dataset (`csv/*-updated.csv` bajo el directorio `csv/`).
+- [x] Autoevaluación (`selfAssessmentHandsOn3.md` en la raíz del directorio del grupo).
