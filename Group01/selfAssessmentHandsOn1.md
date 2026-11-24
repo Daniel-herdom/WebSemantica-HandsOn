@@ -10,7 +10,7 @@ Grupo: Group01
 * **R6. Múltiples fuentes:** Sí. Los datos provienen del inventario oficial unificado.
 
 ## Entregables en GitHub
-* [xx] `README.md` con los miembros del grupo.
+* [x] `README.md` con los miembros del grupo.
 * [x] Fichero CSV en la carpeta `csv/`.
 * [x] Documento HTML de requisitos del dataset (`datasetRequirements.html`).
 * [x] Documento HTML de requisitos de la aplicación y mock-ups (`applicationRequirements.html`).
