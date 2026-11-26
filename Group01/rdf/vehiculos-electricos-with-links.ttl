@@ -1,0 +1,2590 @@
+@prefix ns1: <http://madrid-recarga.linkeddata.es/group06/ontology#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Atol%C3%B3n%2098%20%28Mercamadrid%29%2C%20Calle%2029.> a ns1:PuntoRecarga ;
+    rdfs:label "Atolón 98 (Mercamadrid), Calle 29." ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/DRIVE%20THE%20CITY> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Atol%C3%B3n%2098%20%28Mercamadrid%29%2C%20Calle%2029.> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avda.%20de%20Madrid%20-%20Aparcamiento%20Este%20del%20Mercado%20Central%20de%20Pescados%20%28Parcela%20C2%29> a ns1:PuntoRecarga ;
+    rdfs:label "Avda. de Madrid - Aparcamiento Este del Mercado Central de Pescados (Parcela C2)" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avda.%20de%20Madrid%20-%20Aparcamiento%20Este%20del%20Mercado%20Central%20de%20Pescados%20%28Parcela%20C2%29> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avda.%20de%20Madrid%20-%20Aparcamiento%20Este%20del%20Mercado%20Central%20de%20Pescados%20%28Parcela%20C2%29%20Mercamadrid.> a ns1:PuntoRecarga ;
+    rdfs:label "Avda. de Madrid - Aparcamiento Este del Mercado Central de Pescados (Parcela C2) Mercamadrid." ;
+    ns1:caracteristicas "150 kW DC-CCS Combo 2 (≥ 250 A) y CHAdeMO (≥ 100 A)" ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avda.%20de%20Madrid%20-%20Aparcamiento%20Este%20del%20Mercado%20Central%20de%20Pescados%20%28Parcela%20C2%29%20Mercamadrid.> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avda.%20de%20los%20Rosales%20147%20M-301%20km%204%2C1> a ns1:PuntoRecarga ;
+    rdfs:label "Avda. de los Rosales 147 M-301 km 4,1" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Repsol> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avda.%20de%20los%20Rosales%20147%20M-301%20km%204%2C1> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20Alberto%20Alcocer%2C%2011> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida Alberto Alcocer, 11" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/ENDESA> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20Alberto%20Alcocer%2C%2011> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20Arcentales%2C%207> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida Arcentales, 7" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Galp%20Energia> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20Arcentales%2C%207> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20Canillejas%20a%20Vic%C3%A1lvaro%2C%20147> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida Canillejas a Vicálvaro, 147" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Cerdeira> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20Canillejas%20a%20Vic%C3%A1lvaro%2C%20147> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20Canillejas%20a%20Vic%C3%A1lvaro%2C%2080> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida Canillejas a Vicálvaro, 80" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Galp%20Energia> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20Canillejas%20a%20Vic%C3%A1lvaro%2C%2080> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20Eje%20Central%2C%207> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida Eje Central, 7" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Naturgy> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20Eje%20Central%2C%207> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20Mar%C3%ADa%20de%20Portugal%2015> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida María de Portugal 15" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20Mar%C3%ADa%20de%20Portugal%2015> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20Mayorazgo%2C%2020> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida Mayorazgo, 20" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Galp%20Energia> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20Mayorazgo%2C%2020> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20de%20Abrantes%2C%2057> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida de Abrantes, 57" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS/Chademo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20de%20Abrantes%2C%2057> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20de%20Am%C3%A9rica%209%20A%2C%20planta%20-3> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida de América 9 A, planta -3" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20de%20Am%C3%A9rica%209%20A%2C%20planta%20-3> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20de%20C%C3%B3rdoba%2C%209> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida de Córdoba, 9" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS/Chademo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20de%20C%C3%B3rdoba%2C%209> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20de%20Machupichu%20105> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida de Machupichu 105" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/GIC> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20de%20Machupichu%20105> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20de%20Niceto%20Alcala%20Zamora%2020> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida de Niceto Alcala Zamora 20" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/GIC%20%2F%20GALP> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20de%20Niceto%20Alcala%20Zamora%2020> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20de%20la%20Albufera%20319> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida de la Albufera 319" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/ECOLINERAS> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20de%20la%20Albufera%20319> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20del%20Consejo%20de%20Europa%202> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida del Consejo de Europa 2" ;
+    ns1:caracteristicas "350 kW conector CC (CCS)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/GIC%20%2F%20CEPSA> ;
+    ns1:numeroEquipo 4 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20del%20Consejo%20de%20Europa%202> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20del%20General%20Per%C3%B3n%2C%2021> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida del General Perón, 21" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/ENDESA> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20del%20General%20Per%C3%B3n%2C%2021> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Avenida%20del%20Parten%C3%B3n%205%20%28Recinto%20IFEMA%29> a ns1:PuntoRecarga ;
+    rdfs:label "Avenida del Partenón 5 (Recinto IFEMA)" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20del%20Parten%C3%B3n%205%20%28Recinto%20IFEMA%29> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Bulevar%20Jos%C3%A9%20Prat%2C%2027A> a ns1:PuntoRecarga ;
+    rdfs:label "Bulevar José Prat, 27A" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS Combo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Bulevar%20Jos%C3%A9%20Prat%2C%2027A> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/C%2FCarmen%20Amaya%2012> a ns1:PuntoRecarga ;
+    rdfs:label "C/Carmen Amaya 12" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS/Chademo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/C%2FCarmen%20Amaya%2012> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/C%2FV%C3%ADa%20Dubl%C3%ADn%20s%2Fn.%20Club%20de%20golf%20Olivar%20de%20la%20Hinojosa.> a ns1:PuntoRecarga ;
+    rdfs:label "C/Vía Dublín s/n. Club de golf Olivar de la Hinojosa." ;
+    ns1:caracteristicas "DC-CCS Combo 2 (50kW) y CHAdeMO (50kW) AC- Tipo 2 (22kW)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/BLAUDRIVE> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/C%2FV%C3%ADa%20Dubl%C3%ADn%20s%2Fn.%20Club%20de%20golf%20Olivar%20de%20la%20Hinojosa.> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/C.C.%20ABC%20SERRANO.%20Calle%20Serrano%2C%2061> a ns1:PuntoRecarga ;
+    rdfs:label "C.C. ABC SERRANO. Calle Serrano, 61" ;
+    ns1:caracteristicas "Conectores: DC- CCS Combo 2, 50 kW y CHAdeMO 50 kW. Toma: AC- Tipo 2, 22 kW" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/ENDESA> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/C.C.%20ABC%20SERRANO.%20Calle%20Serrano%2C%2061> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/CAMPUS%20CANTOBLANCO%20%E2%80%93%20DERECHO> a ns1:PuntoRecarga ;
+    rdfs:label "CAMPUS CANTOBLANCO – DERECHO" ;
+    ns1:caracteristicas "DC-CCS Combo 2 (50kW) y CHAdeMO (50kW) AC- Tipo 2 (22kW)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/UAM> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/CAMPUS%20CANTOBLANCO%20%E2%80%93%20DERECHO> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/CAMPUS%20CANTOBLANCO%20%E2%80%93%20RECTORADO> a ns1:PuntoRecarga ;
+    rdfs:label "CAMPUS CANTOBLANCO – RECTORADO" ;
+    ns1:caracteristicas "DC-CCS Combo 2 (50kW) y CHAdeMO (50kW) AC- Tipo 2 (22kW)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/UAM> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/CAMPUS%20CANTOBLANCO%20%E2%80%93%20RECTORADO> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/CENTRO%20COMERCIAL%20MADRID%202%20-%20LA%20VAGUADA.%20Av.%20de%20Monforte%20de%20Lemos%2C%2036%20-%20Punto%201> a ns1:PuntoRecarga ;
+    rdfs:label "CENTRO COMERCIAL MADRID 2 - LA VAGUADA. Av. de Monforte de Lemos, 36 - Punto 1" ;
+    ns1:caracteristicas "DC-CCS Combo 2 (50kW) y CHAdeMO (50kW) AC- Tipo 2 (22kW)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/La%20Vaguada> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/CENTRO%20COMERCIAL%20MADRID%202%20-%20LA%20VAGUADA.%20Av.%20de%20Monforte%20de%20Lemos%2C%2036%20-%20Punto%201> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/CENTRO%20COMERCIAL%20MADRID%202%20-%20LA%20VAGUADA.%20Av.%20de%20Monforte%20de%20Lemos%2C%2036%20-%20Punto%202> a ns1:PuntoRecarga ;
+    rdfs:label "CENTRO COMERCIAL MADRID 2 - LA VAGUADA. Av. de Monforte de Lemos, 36 - Punto 2" ;
+    ns1:caracteristicas "2 equipos 150 kW: DC-CCS Combo 2 (≥ 250 A) y CHAdeMO (≥ 100 A). 2 equipos 50kW: DC-CCS Combo 2 (50kW) y CHAdeMO (50kW). AC- Tipo 2 (22kW)." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/La%20Vaguada> ;
+    ns1:numeroEquipo 4 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/CENTRO%20COMERCIAL%20MADRID%202%20-%20LA%20VAGUADA.%20Av.%20de%20Monforte%20de%20Lemos%2C%2036%20-%20Punto%202> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/CENTRO%20DE%20OPERACIONES%20NATURGY%2C%20Calle%20Deyanira%2C%2010> a ns1:PuntoRecarga ;
+    rdfs:label "CENTRO DE OPERACIONES NATURGY, Calle Deyanira, 10" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Naturgy> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/CENTRO%20DE%20OPERACIONES%20NATURGY%2C%20Calle%20Deyanira%2C%2010> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/CRE%20Moratalaz%20Glorieta%20del%20Corregidor%20Sancho%20de%20C%C3%B3rdoba> a ns1:PuntoRecarga ;
+    rdfs:label "CRE Moratalaz Glorieta del Corregidor Sancho de Córdoba" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Repsol> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/CRE%20Moratalaz%20Glorieta%20del%20Corregidor%20Sancho%20de%20C%C3%B3rdoba> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/CRED%20PAU%20CARABANCHEL%2C%20Av.%20de%20la%20Peseta> a ns1:PuntoRecarga ;
+    rdfs:label "CRED PAU CARABANCHEL, Av. de la Peseta" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Repsol> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/CRED%20PAU%20CARABANCHEL%2C%20Av.%20de%20la%20Peseta> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%2029.%20Mercamadrid> a ns1:PuntoRecarga ;
+    rdfs:label "Calle 29. Mercamadrid" ;
+    ns1:caracteristicas "180 kW 2 conectores CC (CCS)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/DRIVE%20THE%20CITY> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%2029.%20Mercamadrid> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Alberto%20Aguilera%209> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Alberto Aguilera 9" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Alberto%20Aguilera%209> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Alcal%C3%A1%2017.%20Parking%20de%20Canalejas.> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Alcalá 17. Parking de Canalejas." ;
+    ns1:caracteristicas "4 equipos 400 kW, 4 equipos 200 kW, 4 equipos 50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/EMT> ;
+    ns1:numeroEquipo 12 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Alcal%C3%A1%2017.%20Parking%20de%20Canalejas.> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Alcal%C3%A1%20510%20%28CRED%20San%20Blas%29> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Alcalá 510 (CRED San Blas)" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Repsol> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Alcal%C3%A1%20510%20%28CRED%20San%20Blas%29> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Alfonso%20XII%2C%202> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Alfonso XII, 2" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Alfonso%20XII%2C%202> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Alto%20del%20Retiro%2C%20s%2Fn> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Alto del Retiro, s/n" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/ENDESA> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Alto%20del%20Retiro%2C%20s%2Fn> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Amparo%20Usera%2C%2046.%20Mercado%20Usera> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Amparo Usera, 46. Mercado Usera" ;
+    ns1:caracteristicas "DC-CCS Combo 2 (50kW) y CHAdeMO (50kW) AC- Tipo 2 (22kW)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/BLAUDRIVE> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Amparo%20Usera%2C%2046.%20Mercado%20Usera> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Buen%20Suceso%2C%2027> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Buen Suceso, 27" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS/Chademo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Buen%20Suceso%2C%2027> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Bueso%20Pineda%2029> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Bueso Pineda 29" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Bueso%20Pineda%2029> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Cardenal%20Marcelo%20Sp%C3%ADnola%206> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Cardenal Marcelo Spínola 6" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Cardenal%20Marcelo%20Sp%C3%ADnola%206> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Castell%C3%B3%20105> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Castelló 105" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Wenea> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Castell%C3%B3%20105> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Cerro%20de%20la%20Plata%204> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Cerro de la Plata 4" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Cerro%20de%20la%20Plata%204> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Chulapos%20s%2Fn> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Chulapos s/n" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Chulapos%20s%2Fn> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Esteban%20Mora%2C%2043> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Esteban Mora, 43" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS Combo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Esteban%20Mora%2C%2043> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Fern%C3%A1ndez%20de%20los%20R%C3%ADos%2042> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Fernández de los Ríos 42" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Wenea> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Fern%C3%A1ndez%20de%20los%20R%C3%ADos%2042> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Fuencarral%20114> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Fuencarral 114" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Fuencarral%20114> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20G%C3%A9nova%2024> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Génova 24" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20G%C3%A9nova%2024> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Godella%20116> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Godella 116" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS/Chademo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Godella%20116> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Goya%20123> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Goya 123" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Goya%20123> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Goya%2036> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Goya 36" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Goya%2036> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Guare%C3%B1a%20cv%20av%20Aguilas> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Guareña cv av Aguilas" ;
+    ns1:caracteristicas "Lote 3. 2 equipos 100 kW CCS Combo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Guare%C3%B1a%20cv%20av%20Aguilas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Hacienda%20de%20Pavones%20231%20%28enfrente%20del%20LIDL%29> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Hacienda de Pavones 231 (enfrente del LIDL)" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS Combo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Hacienda%20de%20Pavones%20231%20%28enfrente%20del%20LIDL%29> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Hiedra%2036> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Hiedra 36" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/EMT> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Hiedra%2036> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Hilario%20Herranz%20Establos%2C%2020> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Hilario Herranz Establos, 20" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/ENDESA> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Hilario%20Herranz%20Establos%2C%2020> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Ibiza%201> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Ibiza 1" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Wenea> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Ibiza%201> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Infanta%20Mercedes%2096> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Infanta Mercedes 96" ;
+    ns1:caracteristicas "50 kW" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Infanta%20Mercedes%2096> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Juan%20Mieg%2013> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Juan Mieg 13" ;
+    ns1:caracteristicas "Electrolinera: servicio a 26 plazas del parking: 4 vehiculos tipo N1 y N2 (Potencia>150kW) y 22 vehículos tipo M (Potencia >50 kW)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/UTE%20CHARG%20ELECTRA%20SPAIN%20S.L.U%20y%20ELECTRA%20S.A.> ;
+    ns1:numeroEquipo 24 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Juan%20Mieg%2013> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Manuel%20Silvela%2016> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Manuel Silvela 16" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Manuel%20Silvela%2016> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Marqu%C3%A9s%20de%20Urquijo%2C%2027> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Marqués de Urquijo, 27" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/ENDESA> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Marqu%C3%A9s%20de%20Urquijo%2C%2027> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Mart%C3%ADnez%20de%20la%20Riva%2C%204.%20Mercado%20Puente%20de%20Vallecas> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Martínez de la Riva, 4. Mercado Puente de Vallecas" ;
+    ns1:caracteristicas "DC-CCS Combo 2 (50kW) y CHAdeMO (50kW) AC- Tipo 2 (22kW)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/BLAUDRIVE> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Mart%C3%ADnez%20de%20la%20Riva%2C%204.%20Mercado%20Puente%20de%20Vallecas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Nanclares%20de%20Oca%2C%205-17> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Nanclares de Oca, 5-17" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Nanclares%20de%20Oca%2C%205-17> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Ofelia%20Nieto%2C%2064> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Ofelia Nieto, 64" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Repsol> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Ofelia%20Nieto%2C%2064> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Pamplona%2C%2063> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Pamplona, 63" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS/Chademo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Pamplona%2C%2063> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Pirotecnia%2047> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Pirotecnia 47" ;
+    ns1:caracteristicas "17 equipos, 5 Tipo N (individuales 210 kW DC y 400 kW DC), 17 equipos tipo M (10 plazas a 100 kW, 8 plazas a 60 kW, y 8 plazas a 22 kW)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Acciona> ;
+    ns1:numeroEquipo 17 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Pirotecnia%2047> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20San%20Aquilino%2C%201%20B> a ns1:PuntoRecarga ;
+    rdfs:label "Calle San Aquilino, 1 B" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20San%20Aquilino%2C%201%20B> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20San%20Claudio%2C%20154%20%28frente%20a%20Centro%20de%20Salud%29> a ns1:PuntoRecarga ;
+    rdfs:label "Calle San Claudio, 154 (frente a Centro de Salud)" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS/Chademo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20San%20Claudio%2C%20154%20%28frente%20a%20Centro%20de%20Salud%29> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Santa%20Engracia%20115> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Santa Engracia 115" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Santa%20Engracia%20115> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Santander%2C%205> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Santander, 5" ;
+    ns1:caracteristicas "Lote 3. 2 equipos 100 kW CCS Combo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Santander%2C%205> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Sinfonia%2C%209%20%28ES%20Ballenoil%20Aviaci%C3%B3n%29> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Sinfonia, 9 (ES Ballenoil Aviación)" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Sinfonia%2C%209%20%28ES%20Ballenoil%20Aviaci%C3%B3n%29> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Valle%20de%20Tobalina%2C%2024%20%28ES%20Ballenoil%29> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Valle de Tobalina, 24 (ES Ballenoil)" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Valle%20de%20Tobalina%2C%2024%20%28ES%20Ballenoil%29> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Vel%C3%A1zquez%2074> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Velázquez 74" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Wenea> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Vel%C3%A1zquez%2074> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Verdaguer%20y%20Garc%C3%ADa%205%20%28Ipark-Verdaguer%20ampliaci%C3%B3n%29> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Verdaguer y García 5 (Ipark-Verdaguer ampliación)" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/ENDESA> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Verdaguer%20y%20Garc%C3%ADa%205%20%28Ipark-Verdaguer%20ampliaci%C3%B3n%29> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20Villardondiego%2C%2034> a ns1:PuntoRecarga ;
+    rdfs:label "Calle Villardondiego, 34" ;
+    ns1:caracteristicas "Lote 2. 2 equipos 100 kW CCS/Chademo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Villardondiego%2C%2034> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20de%20Luis%20Peidr%C3%B3%2C%2011> a ns1:PuntoRecarga ;
+    rdfs:label "Calle de Luis Peidró, 11" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS Combo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20de%20Luis%20Peidr%C3%B3%2C%2011> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20de%20Minerva%2C%2017> a ns1:PuntoRecarga ;
+    rdfs:label "Calle de Minerva, 17" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS/Chademo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20de%20Minerva%2C%2017> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20de%20Roberto%20Domingo%2C%204> a ns1:PuntoRecarga ;
+    rdfs:label "Calle de Roberto Domingo, 4" ;
+    ns1:caracteristicas "1 equipo de 150 kW (DC-CCS Combo 2 (≥ 250 A) y CHAdeMO (≥ 100 A)) y 1 equipo de 50 kW (DC-CCS Combo 2 (50kW) y CHAdeMO (50kW). AC- Tipo 2 (22kW))" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Wenea> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20de%20Roberto%20Domingo%2C%204> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20de%20Santa%20Florencia%20%28enfrente%20del%201%29> a ns1:PuntoRecarga ;
+    rdfs:label "Calle de Santa Florencia (enfrente del 1)" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS Combo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20de%20Santa%20Florencia%20%28enfrente%20del%201%29> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20de%20Sinesio%20Delgado%202> a ns1:PuntoRecarga ;
+    rdfs:label "Calle de Sinesio Delgado 2" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20de%20Sinesio%20Delgado%202> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20del%20General%20Lacy%2C%2021> a ns1:PuntoRecarga ;
+    rdfs:label "Calle del General Lacy, 21" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS/Chademo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20del%20General%20Lacy%2C%2021> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20del%20Monasterio%20de%20Arlanza%2C%2020%20%28Centro%20Comercial%20Montecarmelo%29> a ns1:PuntoRecarga ;
+    rdfs:label "Calle del Monasterio de Arlanza, 20 (Centro Comercial Montecarmelo)" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20del%20Monasterio%20de%20Arlanza%2C%2020%20%28Centro%20Comercial%20Montecarmelo%29> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Calle%20del%20Parque%20Eugenia%20de%20Montijo%2C%2036> a ns1:PuntoRecarga ;
+    rdfs:label "Calle del Parque Eugenia de Montijo, 36" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS Combo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20del%20Parque%20Eugenia%20de%20Montijo%2C%2036> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Camino%20de%20la%20Zarzuela%2C%2025> a ns1:PuntoRecarga ;
+    rdfs:label "Camino de la Zarzuela, 25" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS Combo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Camino%20de%20la%20Zarzuela%2C%2025> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Carretera%20de%20Villaverde%20a%20Vallecas%20278> a ns1:PuntoRecarga ;
+    rdfs:label "Carretera de Villaverde a Vallecas 278" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Repsol> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Carretera%20de%20Villaverde%20a%20Vallecas%20278> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/ES%20Aravaca%20-%20El%20Plant%C3%ADo%20%28Avenida%20Victoria%2034%29> a ns1:PuntoRecarga ;
+    rdfs:label "ES Aravaca - El Plantío (Avenida Victoria 34)" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Repsol> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/ES%20Aravaca%20-%20El%20Plant%C3%ADo%20%28Avenida%20Victoria%2034%29> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/ES%20Avenida%20de%20Andaluc%C3%ADa%2038%20-%20Carretera%20A-4%20PK6.70%20D> a ns1:PuntoRecarga ;
+    rdfs:label "ES Avenida de Andalucía 38 - Carretera A-4 PK6.70 D" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/ENDESA> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/ES%20Avenida%20de%20Andaluc%C3%ADa%2038%20-%20Carretera%20A-4%20PK6.70%20D> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/ES%20Calle%20Arturo%20Soria%2C%20175> a ns1:PuntoRecarga ;
+    rdfs:label "ES Calle Arturo Soria, 175" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Repsol> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/ES%20Calle%20Arturo%20Soria%2C%20175> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/ES%20Hip%C3%B3dromo%28CR%20A-6%2C%208%29> a ns1:PuntoRecarga ;
+    rdfs:label "ES Hipódromo(CR A-6, 8)" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Repsol> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/ES%20Hip%C3%B3dromo%28CR%20A-6%2C%208%29> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/ES%20Repsol%2033826%20-%20P%C2%BA%20Extremadura%20543%20%28A5%20PK9%29> a ns1:PuntoRecarga ;
+    rdfs:label "ES Repsol 33826 - Pº Extremadura 543 (A5 PK9)" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Repsol> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/ES%20Repsol%2033826%20-%20P%C2%BA%20Extremadura%20543%20%28A5%20PK9%29> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/ES%20Repsol%2096849%20-%20Calle%20Abetal%208%20-%20Las%20Tablas> a ns1:PuntoRecarga ;
+    rdfs:label "ES Repsol 96849 - Calle Abetal 8 - Las Tablas" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Repsol> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/ES%20Repsol%2096849%20-%20Calle%20Abetal%208%20-%20Las%20Tablas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/ESTACI%C3%93N%20DE%20SUMINISTRO%20GNC%20%28CTM%29%2C%20Avenida%20Eje%20Central%2C%207> a ns1:PuntoRecarga ;
+    rdfs:label "ESTACIÓN DE SUMINISTRO GNC (CTM), Avenida Eje Central, 7" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Naturgy> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/ESTACI%C3%93N%20DE%20SUMINISTRO%20GNC%20%28CTM%29%2C%20Avenida%20Eje%20Central%2C%207> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Estaci%C3%B3n%20de%20Servicio%20SUDEL%2C%20Calle%20Ricardo%20Ortiz%2C%2044> a ns1:PuntoRecarga ;
+    rdfs:label "Estación de Servicio SUDEL, Calle Ricardo Ortiz, 44" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Sudel> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Estaci%C3%B3n%20de%20Servicio%20SUDEL%2C%20Calle%20Ricardo%20Ortiz%2C%2044> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Glorieta%20De%20Sandro%20Pertini%20%28frente%20a%20edificio%20c%2F%20Arequipa%2C%201%29> a ns1:PuntoRecarga ;
+    rdfs:label "Glorieta De Sandro Pertini (frente a edificio c/ Arequipa, 1)" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS Combo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Glorieta%20De%20Sandro%20Pertini%20%28frente%20a%20edificio%20c%2F%20Arequipa%2C%201%29> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Hospital%20Vithas%20Clinsa%20SA.%20Calle%20de%20Ram%C3%ADrez%20de%20Arellano%2C%202> a ns1:PuntoRecarga ;
+    rdfs:label "Hospital Vithas Clinsa SA. Calle de Ramírez de Arellano, 2" ;
+    ns1:caracteristicas "DC-CCS Combo 2 (50kW) y CHAdeMO (50kW) AC- Tipo 2 (22kW)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/ENDESA> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Hospital%20Vithas%20Clinsa%20SA.%20Calle%20de%20Ram%C3%ADrez%20de%20Arellano%2C%202> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Hospital%20Vithas%20Pardo%20de%20Aravaca.%20Calle%20de%20la%20Salle%2C%2012> a ns1:PuntoRecarga ;
+    rdfs:label "Hospital Vithas Pardo de Aravaca. Calle de la Salle, 12" ;
+    ns1:caracteristicas "50 kW" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/ENDESA> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Hospital%20Vithas%20Pardo%20de%20Aravaca.%20Calle%20de%20la%20Salle%2C%2012> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Jardines%20del%20Descubrimiento%20-%20Acceso%20a%20Complejo%20de%20Aparcamientos%20subterr%C3%A1neos%20por%20Calle%20de%20la%20Armada%20Espa%C3%B1ola> a ns1:PuntoRecarga ;
+    rdfs:label "Jardines del Descubrimiento - Acceso a Complejo de Aparcamientos subterráneos por Calle de la Armada Española" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/EMT> ;
+    ns1:numeroEquipo 4 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Jardines%20del%20Descubrimiento%20-%20Acceso%20a%20Complejo%20de%20Aparcamientos%20subterr%C3%A1neos%20por%20Calle%20de%20la%20Armada%20Espa%C3%B1ola> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Mercado%20Central%20de%20Frutas%20y%20Verduras%20%28Parcela%20H5%29> a ns1:PuntoRecarga ;
+    rdfs:label "Mercado Central de Frutas y Verduras (Parcela H5)" ;
+    ns1:caracteristicas "4 50 kW DC-CCS Combo 2 (50kW) y CHAdeMO (50kW) AC- Tipo 2 (22kW), y 1 150kW DC-CCS Combo 2 (≥ 250 A) y CHAdeMO (≥ 100 A)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Mercamadrid> ;
+    ns1:numeroEquipo 5 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Mercado%20Central%20de%20Frutas%20y%20Verduras%20%28Parcela%20H5%29> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Mercado%20Municipal%20de%20Maravillas%2C%20Calle%20Bravo%20Murillo%20122> a ns1:PuntoRecarga ;
+    rdfs:label "Mercado Municipal de Maravillas, Calle Bravo Murillo 122" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/DRIVE%20THE%20CITY> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Mercado%20Municipal%20de%20Maravillas%2C%20Calle%20Bravo%20Murillo%20122> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Mercado%20de%20Guindalera.%20Plaza%20de%20San%20Cayetano%2C%20s%2Fn> a ns1:PuntoRecarga ;
+    rdfs:label "Mercado de Guindalera. Plaza de San Cayetano, s/n" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/ENDESA> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Mercado%20de%20Guindalera.%20Plaza%20de%20San%20Cayetano%2C%20s%2Fn> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Mercado%20de%20la%20Cebada.%20Plaza%20de%20la%20Cebada> a ns1:PuntoRecarga ;
+    rdfs:label "Mercado de la Cebada. Plaza de la Cebada" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/DRIVE%20THE%20CITY> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Mercado%20de%20la%20Cebada.%20Plaza%20de%20la%20Cebada> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Mercado%20de%20las%20%C3%81guilas%20-%20Calle%20de%20Jos%C3%A9%20Cadalso> a ns1:PuntoRecarga ;
+    rdfs:label "Mercado de las Águilas - Calle de José Cadalso" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/DRIVE%20THE%20CITY> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Mercado%20de%20las%20%C3%81guilas%20-%20Calle%20de%20Jos%C3%A9%20Cadalso> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/OnTime%20-%20Avenida%20Marconi%2C%204> a ns1:PuntoRecarga ;
+    rdfs:label "OnTime - Avenida Marconi, 4" ;
+    ns1:caracteristicas "50 kW" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/ENDESA> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/OnTime%20-%20Avenida%20Marconi%2C%204> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Parcela%20B14%20Anexo%20Calle%203> a ns1:PuntoRecarga ;
+    rdfs:label "Parcela B14 Anexo Calle 3" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/GIC%20%28CIRCUTOR%29> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Parcela%20B14%20Anexo%20Calle%203> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Parcela%20D.2.1%20Anexo%20avenida%20de%20legazpi> a ns1:PuntoRecarga ;
+    rdfs:label "Parcela D.2.1 Anexo avenida de legazpi" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/DRIVE%20THE%20CITY> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Parcela%20D.2.1%20Anexo%20avenida%20de%20legazpi> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Parcela%20E4%20Anexo%20Avda%20Legazpi> a ns1:PuntoRecarga ;
+    rdfs:label "Parcela E4 Anexo Avda Legazpi" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/DRIVE%20THE%20CITY> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Parcela%20E4%20Anexo%20Avda%20Legazpi> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Parking%20Coslada%203.%20Calle%20de%20Coslada%2C%203> a ns1:PuntoRecarga ;
+    rdfs:label "Parking Coslada 3. Calle de Coslada, 3" ;
+    ns1:caracteristicas "50 kW" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/ENDESA> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Parking%20Coslada%203.%20Calle%20de%20Coslada%2C%203> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Paseo%20Castellana%20106> a ns1:PuntoRecarga ;
+    rdfs:label "Paseo Castellana 106" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Paseo%20Castellana%20106> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Paseo%20Castellana%20160> a ns1:PuntoRecarga ;
+    rdfs:label "Paseo Castellana 160" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes. Equipo 150 kW: DC-CCS Combo 2 (≥ 250 A) y CHAdeMO (≥ 100 A)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Wenea> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Paseo%20Castellana%20160> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Paseo%20Castellana%2033> a ns1:PuntoRecarga ;
+    rdfs:label "Paseo Castellana 33" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Wenea> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Paseo%20Castellana%2033> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Paseo%20Castellana%2052> a ns1:PuntoRecarga ;
+    rdfs:label "Paseo Castellana 52" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Paseo%20Castellana%2052> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Paseo%20Imperial> a ns1:PuntoRecarga ;
+    rdfs:label "Paseo Imperial" ;
+    ns1:caracteristicas "1 equipo de 150 kW (DC-CCS Combo 2 (≥ 250 A) y CHAdeMO (≥ 100 A)) y 1 equipo de 50 kW (DC-CCS Combo 2 (50kW) y CHAdeMO (50kW). AC- Tipo 2 (22kW))" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Paseo%20Imperial> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Paseo%20Polideportivo%20s%2Fn.%20Centro%20Deportivo%20Margot%20Moles> a ns1:PuntoRecarga ;
+    rdfs:label "Paseo Polideportivo s/n. Centro Deportivo Margot Moles" ;
+    ns1:caracteristicas "Lote 2. 2 equipos 100 kW CCS/Chademo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Paseo%20Polideportivo%20s%2Fn.%20Centro%20Deportivo%20Margot%20Moles> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Paseo%20Recoletos%204> a ns1:PuntoRecarga ;
+    rdfs:label "Paseo Recoletos 4" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/EMT> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Paseo%20Recoletos%204> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Plaza%20de%20Jacinto%20Benavente%206> a ns1:PuntoRecarga ;
+    rdfs:label "Plaza de Jacinto Benavente 6" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/EMT> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Plaza%20de%20Jacinto%20Benavente%206> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Plaza%20de%20Marqu%C3%A9s%20de%20Salamanca> a ns1:PuntoRecarga ;
+    rdfs:label "Plaza de Marqués de Salamanca" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/EMT> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Plaza%20de%20Marqu%C3%A9s%20de%20Salamanca> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Plaza%20de%20la%20Cebada> a ns1:PuntoRecarga ;
+    rdfs:label "Plaza de la Cebada" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/DRIVE%20THE%20CITY> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Plaza%20de%20la%20Cebada> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Plaza%20de%20la%20Lealtad%2C%20s%2Fn> a ns1:PuntoRecarga ;
+    rdfs:label "Plaza de la Lealtad, s/n" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Plaza%20de%20la%20Lealtad%2C%20s%2Fn> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Plaza%20del%20Conde%20de%20Casal%206> a ns1:PuntoRecarga ;
+    rdfs:label "Plaza del Conde de Casal 6" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo)" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/DRIVE%20THE%20CITY> ;
+    ns1:numeroEquipo 2 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Plaza%20del%20Conde%20de%20Casal%206> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Plaza%20del%20Conde%20de%20Valle%20de%20Suchil> a ns1:PuntoRecarga ;
+    rdfs:label "Plaza del Conde de Valle de Suchil" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Plaza%20del%20Conde%20de%20Valle%20de%20Suchil> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Ronda%20de%20Valencia%201> a ns1:PuntoRecarga ;
+    rdfs:label "Ronda de Valencia 1" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Wenea> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Ronda%20de%20Valencia%201> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/SEDE%20NATURGY%2C%20Av%20San%20Luis%2C%2077> a ns1:PuntoRecarga ;
+    rdfs:label "SEDE NATURGY, Av San Luis, 77" ;
+    ns1:caracteristicas "50 kW 2 conectores CC (CCS/Chademo) y 1 conector AC modo 2 Mennekes" ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Naturgy> ;
+    ns1:numeroEquipo 1 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/SEDE%20NATURGY%2C%20Av%20San%20Luis%2C%2077> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/PuntoRecarga/Traves%C3%ADa%20Santo%C3%B1a%2C%204> a ns1:PuntoRecarga ;
+    rdfs:label "Travesía Santoña, 4" ;
+    ns1:caracteristicas "2 equipos 100 kW CCS Combo, y 1 equipo 50 kW CCS/Chademo + 1 conector 22kW AC modo 2." ;
+    ns1:gestionadoPor <http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> ;
+    ns1:numeroEquipo 3 ;
+    ns1:tieneUbicacion <http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Traves%C3%ADa%20Santo%C3%B1a%2C%204> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Abrantes> a ns1:Barrio ;
+    rdfs:label "Abrantes" ;
+    ns1:codBarrio 7 ;
+    ns1:nombreBarrio "Abrantes" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Carabanchel> ;
+    owl:sameAs <https://wikidata.org/entity/Q3773949> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Almagro> a ns1:Barrio ;
+    rdfs:label "Almagro" ;
+    ns1:codBarrio 4 ;
+    ns1:nombreBarrio "Almagro" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Chamber%C3%AD> ;
+    owl:sameAs <https://wikidata.org/entity/Q10954432> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Almenara> a ns1:Barrio ;
+    rdfs:label "Almenara" ;
+    ns1:codBarrio 4 ;
+    ns1:nombreBarrio "Almenara" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Tetu%C3%A1n> ;
+    owl:sameAs <https://wikidata.org/entity/Q2265427> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Almendrales> a ns1:Barrio ;
+    rdfs:label "Almendrales" ;
+    ns1:codBarrio 4 ;
+    ns1:nombreBarrio "Almendrales" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Usera> ;
+    owl:sameAs <https://wikidata.org/entity/Q9604761> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Ap%C3%B3stol%20Santiago> a ns1:Barrio ;
+    rdfs:label "Apóstol Santiago" ;
+    ns1:codBarrio 5 ;
+    ns1:nombreBarrio "Apóstol Santiago" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Hortaleza> ;
+    owl:sameAs <https://wikidata.org/entity/Q11906303> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Arcos> a ns1:Barrio ;
+    rdfs:label "Arcos" ;
+    ns1:codBarrio 4 ;
+    ns1:nombreBarrio "Arcos" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/San%20Blas-Canillejas> ;
+    owl:sameAs <https://wikidata.org/entity/Q9627876> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Bellas%20Vistas> a ns1:Barrio ;
+    rdfs:label "Bellas Vistas" ;
+    ns1:codBarrio 1 ;
+    ns1:nombreBarrio "Bellas Vistas" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Tetu%C3%A1n> ;
+    owl:sameAs <https://wikidata.org/entity/Q11908929> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Berruguete> a ns1:Barrio ;
+    rdfs:label "Berruguete" ;
+    ns1:codBarrio 6 ;
+    ns1:nombreBarrio "Berruguete" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Tetu%C3%A1n> ;
+    owl:sameAs <https://wikidata.org/entity/Q11909208> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Butarque> a ns1:Barrio ;
+    rdfs:label "Butarque" ;
+    ns1:codBarrio 3 ;
+    ns1:nombreBarrio "Butarque" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Villaverde> ;
+    owl:sameAs <https://wikidata.org/entity/Q390453> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Canillas> a ns1:Barrio ;
+    rdfs:label "Canillas" ;
+    ns1:codBarrio 3 ;
+    ns1:nombreBarrio "Canillas" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Hortaleza> ;
+    owl:sameAs <https://wikidata.org/entity/Q9694341> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Castillejos> a ns1:Barrio ;
+    rdfs:label "Castillejos" ;
+    ns1:codBarrio 3 ;
+    ns1:nombreBarrio "Castillejos" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Tetu%C3%A1n> ;
+    owl:sameAs <https://wikidata.org/entity/Q11913212> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Ciudad%20Universitaria> a ns1:Barrio ;
+    rdfs:label "Ciudad Universitaria" ;
+    ns1:codBarrio 3 ;
+    ns1:nombreBarrio "Ciudad Universitaria" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Moncloa-Aravaca> ;
+    owl:sameAs <https://wikidata.org/entity/Q3319235> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Colina> a ns1:Barrio ;
+    rdfs:label "Colina" ;
+    ns1:codBarrio 7 ;
+    ns1:nombreBarrio "Colina" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Ciudad%20Lineal> ;
+    owl:sameAs <https://wikidata.org/entity/Q18475981> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/El%20Plant%C3%ADo> a ns1:Barrio ;
+    rdfs:label "El Plantío" ;
+    ns1:codBarrio 6 ;
+    ns1:nombreBarrio "El Plantío" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Moncloa-Aravaca> ;
+    owl:sameAs <https://wikidata.org/entity/Q3773742> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/El%20Viso> a ns1:Barrio ;
+    rdfs:label "El Viso" ;
+    ns1:codBarrio 1 ;
+    ns1:nombreBarrio "El Viso" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Chamart%C3%ADn> ;
+    owl:sameAs <https://wikidata.org/entity/Q4778> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Ensanche%20de%20Vallecas> a ns1:Barrio ;
+    rdfs:label "Ensanche de Vallecas" ;
+    ns1:codBarrio 3 ;
+    ns1:nombreBarrio "Ensanche de Vallecas" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Villa%20de%20Vallecas> ;
+    owl:sameAs <https://wikidata.org/entity/Q3847485> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Goya> a ns1:Barrio ;
+    rdfs:label "Goya" ;
+    ns1:codBarrio 2 ;
+    ns1:nombreBarrio "Goya" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Salamanca> ;
+    owl:sameAs <https://wikidata.org/entity/Q3814578> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Hispanoam%C3%A9rica> a ns1:Barrio ;
+    rdfs:label "Hispanoamérica" ;
+    ns1:codBarrio 4 ;
+    ns1:nombreBarrio "Hispanoamérica" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Chamart%C3%ADn> ;
+    owl:sameAs <https://wikidata.org/entity/Q3814573> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Ibiza> a ns1:Barrio ;
+    rdfs:label "Ibiza" ;
+    ns1:codBarrio 4 ;
+    ns1:nombreBarrio "Ibiza" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Retiro> ;
+    owl:sameAs <https://wikidata.org/entity/Q15249910> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Justicia> a ns1:Barrio ;
+    rdfs:label "Justicia" ;
+    ns1:codBarrio 4 ;
+    ns1:nombreBarrio "Justicia" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Centro> ;
+    owl:sameAs <https://wikidata.org/entity/Q1992319> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/La%20Paz> a ns1:Barrio ;
+    rdfs:label "La Paz" ;
+    ns1:codBarrio 5 ;
+    ns1:nombreBarrio "La Paz" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Fuencarral-El%20Pardo> ;
+    owl:sameAs <https://wikidata.org/entity/Q5869740> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Lista> a ns1:Barrio ;
+    rdfs:label "Lista" ;
+    ns1:codBarrio 5 ;
+    ns1:nombreBarrio "Lista" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Salamanca> ;
+    owl:sameAs <https://wikidata.org/entity/Q4779> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Los%20Rosales> a ns1:Barrio ;
+    rdfs:label "Los Rosales" ;
+    ns1:codBarrio 4 ;
+    ns1:nombreBarrio "Los Rosales" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Villaverde> ;
+    owl:sameAs <https://wikidata.org/entity/Q10319807> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Marroquina> a ns1:Barrio ;
+    rdfs:label "Marroquina" ;
+    ns1:codBarrio 3 ;
+    ns1:nombreBarrio "Marroquina" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Moratalaz> ;
+    owl:sameAs <https://wikidata.org/entity/Q11935636> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Media%20Legua> a ns1:Barrio ;
+    rdfs:label "Media Legua" ;
+    ns1:codBarrio 4 ;
+    ns1:nombreBarrio "Media Legua" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Moratalaz> ;
+    owl:sameAs <https://wikidata.org/entity/Q9031035> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Moscard%C3%B3> a ns1:Barrio ;
+    rdfs:label "Moscardó" ;
+    ns1:codBarrio 5 ;
+    ns1:nombreBarrio "Moscardó" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Usera> ;
+    owl:sameAs <https://wikidata.org/entity/Q11937679> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Nueva%20Espa%C3%B1a> a ns1:Barrio ;
+    rdfs:label "Nueva España" ;
+    ns1:codBarrio 5 ;
+    ns1:nombreBarrio "Nueva España" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Chamart%C3%ADn> ;
+    owl:sameAs <https://wikidata.org/entity/Q10338128> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Orcasur> a ns1:Barrio ;
+    rdfs:label "Orcasur" ;
+    ns1:codBarrio 2 ;
+    ns1:nombreBarrio "Orcasur" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Usera> ;
+    owl:sameAs <https://wikidata.org/entity/Q10341270> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Pavones> a ns1:Barrio ;
+    rdfs:label "Pavones" ;
+    ns1:codBarrio 1 ;
+    ns1:nombreBarrio "Pavones" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Moratalaz> ;
+    owl:sameAs <https://wikidata.org/entity/Q71760> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Pinar%20del%20Rey> a ns1:Barrio ;
+    rdfs:label "Pinar del Rey" ;
+    ns1:codBarrio 4 ;
+    ns1:nombreBarrio "Pinar del Rey" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Hortaleza> ;
+    owl:sameAs <https://wikidata.org/entity/Q10349788> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Prosperidad> a ns1:Barrio ;
+    rdfs:label "Prosperidad" ;
+    ns1:codBarrio 2 ;
+    ns1:nombreBarrio "Prosperidad" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Chamart%C3%ADn> ;
+    owl:sameAs <https://wikidata.org/entity/Q4776> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Rosas> a ns1:Barrio ;
+    rdfs:label "Rosas" ;
+    ns1:codBarrio 5 ;
+    ns1:nombreBarrio "Rosas" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/San%20Blas-Canillejas> ;
+    owl:sameAs <https://wikidata.org/entity/Q18880469> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/San%20Crist%C3%B3bal> a ns1:Barrio ;
+    rdfs:label "San Cristóbal" ;
+    ns1:codBarrio 2 ;
+    ns1:nombreBarrio "San Cristóbal" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Villaverde> ;
+    owl:sameAs <https://wikidata.org/entity/Q390457> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/San%20Diego> a ns1:Barrio ;
+    rdfs:label "San Diego" ;
+    ns1:codBarrio 2 ;
+    ns1:nombreBarrio "San Diego" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Puente%20de%20Vallecas> ;
+    owl:sameAs <https://wikidata.org/entity/Q11946851> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Universidad> a ns1:Barrio ;
+    rdfs:label "Universidad" ;
+    ns1:codBarrio 5 ;
+    ns1:nombreBarrio "Universidad" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Centro> ;
+    owl:sameAs <https://wikidata.org/entity/Q10387767> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Valdebernardo> a ns1:Barrio ;
+    rdfs:label "Valdebernardo" ;
+    ns1:codBarrio 2 ;
+    ns1:nombreBarrio "Valdebernardo" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Vic%C3%A1lvaro> ;
+    owl:sameAs <https://wikidata.org/entity/Q43025212> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Valderrivas> a ns1:Barrio ;
+    rdfs:label "Valderrivas" ;
+    ns1:codBarrio 3 ;
+    ns1:nombreBarrio "Valderrivas" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Vic%C3%A1lvaro> ;
+    owl:sameAs <https://wikidata.org/entity/Q43025770> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Vallehermoso> a ns1:Barrio ;
+    rdfs:label "Vallehermoso" ;
+    ns1:codBarrio 6 ;
+    ns1:nombreBarrio "Vallehermoso" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Chamber%C3%AD> ;
+    owl:sameAs <https://wikidata.org/entity/Q6122685> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Valverde> a ns1:Barrio ;
+    rdfs:label "Valverde" ;
+    ns1:codBarrio 6 ;
+    ns1:nombreBarrio "Valverde" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Fuencarral-El%20Pardo> ;
+    owl:sameAs <https://wikidata.org/entity/Q31132> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Ventas> a ns1:Barrio ;
+    rdfs:label "Ventas" ;
+    ns1:codBarrio 1 ;
+    ns1:nombreBarrio "Ventas" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Ciudad%20Lineal> ;
+    owl:sameAs <https://wikidata.org/entity/Q71762> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Vista%20Alegre> a ns1:Barrio ;
+    rdfs:label "Vista Alegre" ;
+    ns1:codBarrio 4 ;
+    ns1:nombreBarrio "Vista Alegre" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Carabanchel> ;
+    owl:sameAs <https://wikidata.org/entity/Q3813741> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Zof%C3%ADo> a ns1:Barrio ;
+    rdfs:label "Zofío" ;
+    ns1:codBarrio 6 ;
+    ns1:nombreBarrio "Zofío" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Usera> ;
+    owl:sameAs <https://wikidata.org/entity/Q71751> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Barajas> a ns1:Distrito ;
+    rdfs:label "Barajas" ;
+    ns1:codDistrito 21 ;
+    ns1:nombreDistrito "Barajas" ;
+    owl:sameAs <https://wikidata.org/entity/Q807230> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/Acciona> a ns1:Operador ;
+    rdfs:label "Acciona" ;
+    ns1:nombreOperador "Acciona" ;
+    owl:sameAs <https://wikidata.org/entity/Q339142> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/Cerdeira> a ns1:Operador ;
+    rdfs:label "Cerdeira" ;
+    ns1:nombreOperador "Cerdeira" .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/ECOLINERAS> a ns1:Operador ;
+    rdfs:label "ECOLINERAS" ;
+    ns1:nombreOperador "ECOLINERAS" .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/GIC> a ns1:Operador ;
+    rdfs:label "GIC" ;
+    ns1:nombreOperador "GIC" .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/GIC%20%28CIRCUTOR%29> a ns1:Operador ;
+    rdfs:label "GIC (CIRCUTOR)" ;
+    ns1:nombreOperador "GIC (CIRCUTOR)" .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/GIC%20%2F%20CEPSA> a ns1:Operador ;
+    rdfs:label "GIC / CEPSA" ;
+    ns1:nombreOperador "GIC / CEPSA" .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/GIC%20%2F%20GALP> a ns1:Operador ;
+    rdfs:label "GIC / GALP" ;
+    ns1:nombreOperador "GIC / GALP" .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/Mercamadrid> a ns1:Operador ;
+    rdfs:label "Mercamadrid" ;
+    ns1:nombreOperador "Mercamadrid" ;
+    owl:sameAs <https://wikidata.org/entity/Q6010695> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/Sudel> a ns1:Operador ;
+    rdfs:label "Sudel" ;
+    ns1:nombreOperador "Sudel" .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/UTE%20CHARG%20ELECTRA%20SPAIN%20S.L.U%20y%20ELECTRA%20S.A.> a ns1:Operador ;
+    rdfs:label "UTE CHARG ELECTRA SPAIN S.L.U y ELECTRA S.A." ;
+    ns1:nombreOperador "UTE CHARG ELECTRA SPAIN S.L.U y ELECTRA S.A." .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Atol%C3%B3n%2098%20%28Mercamadrid%29%2C%20Calle%2029.> a ns1:Ubicacion ;
+    rdfs:label "Atolón 98 (Mercamadrid), Calle 29." ;
+    ns1:emplazamiento "Mercamadrid" ;
+    ns1:nombreUbicacion "Atolón 98 (Mercamadrid), Calle 29." ;
+    ns1:puntoX "443843.33999999985"^^xsd:float ;
+    ns1:puntoY "4467592.539999999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vallecas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avda.%20de%20Madrid%20-%20Aparcamiento%20Este%20del%20Mercado%20Central%20de%20Pescados%20%28Parcela%20C2%29> a ns1:Ubicacion ;
+    rdfs:label "Avda. de Madrid - Aparcamiento Este del Mercado Central de Pescados (Parcela C2)" ;
+    ns1:emplazamiento "Mercamadrid" ;
+    ns1:nombreUbicacion "Avda. de Madrid - Aparcamiento Este del Mercado Central de Pescados (Parcela C2)" ;
+    ns1:puntoX "443799.34470000025"^^xsd:float ;
+    ns1:puntoY "4467813.0732"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vallecas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avda.%20de%20Madrid%20-%20Aparcamiento%20Este%20del%20Mercado%20Central%20de%20Pescados%20%28Parcela%20C2%29%20Mercamadrid.> a ns1:Ubicacion ;
+    rdfs:label "Avda. de Madrid - Aparcamiento Este del Mercado Central de Pescados (Parcela C2) Mercamadrid." ;
+    ns1:emplazamiento "Mercamadrid" ;
+    ns1:nombreUbicacion "Avda. de Madrid - Aparcamiento Este del Mercado Central de Pescados (Parcela C2) Mercamadrid." ;
+    ns1:puntoX "443846.68879999965"^^xsd:float ;
+    ns1:puntoY "4467593.809800001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vallecas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avda.%20de%20los%20Rosales%20147%20M-301%20km%204%2C1> a ns1:Ubicacion ;
+    rdfs:label "Avda. de los Rosales 147 M-301 km 4,1" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "Avda. de los Rosales 147 M-301 km 4,1" ;
+    ns1:puntoX "443195.2999999998"^^xsd:float ;
+    ns1:puntoY "4465688.6899999995"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Butarque> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20Alberto%20Alcocer%2C%2011> a ns1:Ubicacion ;
+    rdfs:label "Avenida Alberto Alcocer, 11" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Aparcamiento privado rotación" ;
+    ns1:nombreUbicacion "Avenida Alberto Alcocer, 11" ;
+    ns1:puntoX "441794.82990000024"^^xsd:float ;
+    ns1:puntoY "4478935.7502"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Nueva%20Espa%C3%B1a> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20Arcentales%2C%207> a ns1:Ubicacion ;
+    rdfs:label "Avenida Arcentales, 7" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "Avenida Arcentales, 7" ;
+    ns1:puntoX "446901.4400000004"^^xsd:float ;
+    ns1:puntoY "4475280.800000001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Simancas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20Canillejas%20a%20Vic%C3%A1lvaro%2C%20147> a ns1:Ubicacion ;
+    rdfs:label "Avenida Canillejas a Vicálvaro, 147" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "Avenida Canillejas a Vicálvaro, 147" ;
+    ns1:puntoX "448149.86000000034"^^xsd:float ;
+    ns1:puntoY "4475064.07"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Rosas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20Canillejas%20a%20Vic%C3%A1lvaro%2C%2080> a ns1:Ubicacion ;
+    rdfs:label "Avenida Canillejas a Vicálvaro, 80" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "Avenida Canillejas a Vicálvaro, 80" ;
+    ns1:puntoX "448119.4000000004"^^xsd:float ;
+    ns1:puntoY "4475248.08"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Arcos> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20Eje%20Central%2C%207> a ns1:Ubicacion ;
+    rdfs:label "Avenida Eje Central, 7" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:infoAdicional "Iniciativa privada" ;
+    ns1:nombreUbicacion "Avenida Eje Central, 7" ;
+    ns1:puntoX "444372.2000000002"^^xsd:float ;
+    ns1:puntoY "4468659.859999999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vallecas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20Mar%C3%ADa%20de%20Portugal%2015> a ns1:Ubicacion ;
+    rdfs:label "Avenida María de Portugal 15" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "Avenida María de Portugal 15" ;
+    ns1:puntoX "443849.6299999999"^^xsd:float ;
+    ns1:puntoY "4483208.550000001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Valdefuentes> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20Mayorazgo%2C%2020> a ns1:Ubicacion ;
+    rdfs:label "Avenida Mayorazgo, 20" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "Avenida Mayorazgo, 20" ;
+    ns1:puntoX "446388.4199999999"^^xsd:float ;
+    ns1:puntoY "4468958.449999999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vallecas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20de%20Abrantes%2C%2057> a ns1:Ubicacion ;
+    rdfs:label "Avenida de Abrantes, 57" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Avenida de Abrantes, 57" ;
+    ns1:puntoX "438227.19519999996"^^xsd:float ;
+    ns1:puntoY "4470295.2721"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Abrantes> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20de%20Am%C3%A9rica%209%20A%2C%20planta%20-3> a ns1:Ubicacion ;
+    rdfs:label "Avenida de América 9 A, planta -3" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Iniciativa privada" ;
+    ns1:nombreUbicacion "Avenida de América 9 A, planta -3" ;
+    ns1:puntoX "442609.1875"^^xsd:float ;
+    ns1:puntoY "4476593.967599999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Prosperidad> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20de%20C%C3%B3rdoba%2C%209> a ns1:Ubicacion ;
+    rdfs:label "Avenida de Córdoba, 9" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Avenida de Córdoba, 9" ;
+    ns1:puntoX "440714.7730999999"^^xsd:float ;
+    ns1:puntoY "4470853.523399999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Almendrales> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20de%20Machupichu%20105> a ns1:Ubicacion ;
+    rdfs:label "Avenida de Machupichu 105" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:infoAdicional "Iniciativa privada" ;
+    ns1:nombreUbicacion "Avenida de Machupichu 105" ;
+    ns1:puntoX "446082.5800000001"^^xsd:float ;
+    ns1:puntoY "4479561.390000001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Canillas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20de%20Niceto%20Alcala%20Zamora%2020> a ns1:Ubicacion ;
+    rdfs:label "Avenida de Niceto Alcala Zamora 20" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:infoAdicional "Iniciativa privada" ;
+    ns1:nombreUbicacion "Avenida de Niceto Alcala Zamora 20" ;
+    ns1:puntoX "445077.48000000045"^^xsd:float ;
+    ns1:puntoY "4482762.25"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Valdefuentes> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20de%20la%20Albufera%20319> a ns1:Ubicacion ;
+    rdfs:label "Avenida de la Albufera 319" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Aparcamiento privado rotación" ;
+    ns1:nombreUbicacion "Avenida de la Albufera 319" ;
+    ns1:puntoX "446350.6200000001"^^xsd:float ;
+    ns1:puntoY "4470558.49"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Palomeras%20Sureste> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20del%20Consejo%20de%20Europa%202> a ns1:Ubicacion ;
+    rdfs:label "Avenida del Consejo de Europa 2" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:infoAdicional "Iniciativa privada" ;
+    ns1:nombreUbicacion "Avenida del Consejo de Europa 2" ;
+    ns1:puntoX "447722.6699999999"^^xsd:float ;
+    ns1:puntoY "4478857.49"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Corralejos> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20del%20General%20Per%C3%B3n%2C%2021> a ns1:Ubicacion ;
+    rdfs:label "Avenida del General Perón, 21" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Aparcamiento privado rotación" ;
+    ns1:nombreUbicacion "Avenida del General Perón, 21" ;
+    ns1:puntoX "440993.3700000001"^^xsd:float ;
+    ns1:puntoY "4478218.779999999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Cuatro%20Caminos> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Avenida%20del%20Parten%C3%B3n%205%20%28Recinto%20IFEMA%29> a ns1:Ubicacion ;
+    rdfs:label "Avenida del Partenón 5 (Recinto IFEMA)" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Aparcamiento privado rotación. Iniciativa privada" ;
+    ns1:nombreUbicacion "Avenida del Partenón 5 (Recinto IFEMA)" ;
+    ns1:puntoX "447742.8200000003"^^xsd:float ;
+    ns1:puntoY "4479473.5600000005"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Corralejos> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Bulevar%20Jos%C3%A9%20Prat%2C%2027A> a ns1:Ubicacion ;
+    rdfs:label "Bulevar José Prat, 27A" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Bulevar José Prat, 27A" ;
+    ns1:puntoX "447320.4342"^^xsd:float ;
+    ns1:puntoY "4472066.877699999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Valdebernardo> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/C%2FCarmen%20Amaya%2012> a ns1:Ubicacion ;
+    rdfs:label "C/Carmen Amaya 12" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:infoAdicional "Concesión demanial" ;
+    ns1:nombreUbicacion "C/Carmen Amaya 12" ;
+    ns1:puntoX "444438.5696999999"^^xsd:float ;
+    ns1:puntoY "4473658.486300001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Media%20Legua> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/C%2FV%C3%ADa%20Dubl%C3%ADn%20s%2Fn.%20Club%20de%20golf%20Olivar%20de%20la%20Hinojosa.> a ns1:Ubicacion ;
+    rdfs:label "C/Vía Dublín s/n. Club de golf Olivar de la Hinojosa." ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:nombreUbicacion "C/Vía Dublín s/n. Club de golf Olivar de la Hinojosa." ;
+    ns1:puntoX "448314.7697999999"^^xsd:float ;
+    ns1:puntoY "4479931.9321"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Corralejos> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/C.C.%20ABC%20SERRANO.%20Calle%20Serrano%2C%2061> a ns1:Ubicacion ;
+    rdfs:label "C.C. ABC SERRANO. Calle Serrano, 61" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:nombreUbicacion "C.C. ABC SERRANO. Calle Serrano, 61" ;
+    ns1:puntoX "441732.39219999965"^^xsd:float ;
+    ns1:puntoY "4475956.8192"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Castellana> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/CAMPUS%20CANTOBLANCO%20%E2%80%93%20DERECHO> a ns1:Ubicacion ;
+    rdfs:label "CAMPUS CANTOBLANCO – DERECHO" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:nombreUbicacion "CAMPUS CANTOBLANCO – DERECHO" ;
+    ns1:puntoX "441450.5290999999"^^xsd:float ;
+    ns1:puntoY "4488165.1984"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/El%20Goloso> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/CAMPUS%20CANTOBLANCO%20%E2%80%93%20RECTORADO> a ns1:Ubicacion ;
+    rdfs:label "CAMPUS CANTOBLANCO – RECTORADO" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:nombreUbicacion "CAMPUS CANTOBLANCO – RECTORADO" ;
+    ns1:puntoX "441119.24399999995"^^xsd:float ;
+    ns1:puntoY "4488363.2972"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/El%20Goloso> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/CENTRO%20COMERCIAL%20MADRID%202%20-%20LA%20VAGUADA.%20Av.%20de%20Monforte%20de%20Lemos%2C%2036%20-%20Punto%201> a ns1:Ubicacion ;
+    rdfs:label "CENTRO COMERCIAL MADRID 2 - LA VAGUADA. Av. de Monforte de Lemos, 36 - Punto 1" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:nombreUbicacion "CENTRO COMERCIAL MADRID 2 - LA VAGUADA. Av. de Monforte de Lemos, 36 - Punto 1" ;
+    ns1:puntoX "439988.0576999998"^^xsd:float ;
+    ns1:puntoY "4481183.206599999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/El%20Pilar> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/CENTRO%20COMERCIAL%20MADRID%202%20-%20LA%20VAGUADA.%20Av.%20de%20Monforte%20de%20Lemos%2C%2036%20-%20Punto%202> a ns1:Ubicacion ;
+    rdfs:label "CENTRO COMERCIAL MADRID 2 - LA VAGUADA. Av. de Monforte de Lemos, 36 - Punto 2" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:nombreUbicacion "CENTRO COMERCIAL MADRID 2 - LA VAGUADA. Av. de Monforte de Lemos, 36 - Punto 2" ;
+    ns1:puntoX "440027.1805999996"^^xsd:float ;
+    ns1:puntoY "4481197.539999999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/El%20Pilar> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/CENTRO%20DE%20OPERACIONES%20NATURGY%2C%20Calle%20Deyanira%2C%2010> a ns1:Ubicacion ;
+    rdfs:label "CENTRO DE OPERACIONES NATURGY, Calle Deyanira, 10" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:nombreUbicacion "CENTRO DE OPERACIONES NATURGY, Calle Deyanira, 10" ;
+    ns1:puntoX "450281.08999999985"^^xsd:float ;
+    ns1:puntoY "4477078.140000001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Rejas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/CRE%20Moratalaz%20Glorieta%20del%20Corregidor%20Sancho%20de%20C%C3%B3rdoba> a ns1:Ubicacion ;
+    rdfs:label "CRE Moratalaz Glorieta del Corregidor Sancho de Córdoba" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "CRE Moratalaz Glorieta del Corregidor Sancho de Córdoba" ;
+    ns1:puntoX "444688.0"^^xsd:float ;
+    ns1:puntoY "4473174.18"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Marroquina> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/CRED%20PAU%20CARABANCHEL%2C%20Av.%20de%20la%20Peseta> a ns1:Ubicacion ;
+    rdfs:label "CRED PAU CARABANCHEL, Av. de la Peseta" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "CRED PAU CARABANCHEL, Av. de la Peseta" ;
+    ns1:puntoX "434997.8200000003"^^xsd:float ;
+    ns1:puntoY "4468934.8100000005"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Cuatro%20Vientos> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%2029.%20Mercamadrid> a ns1:Ubicacion ;
+    rdfs:label "Calle 29. Mercamadrid" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Iniciativa privada" ;
+    ns1:nombreUbicacion "Calle 29. Mercamadrid" ;
+    ns1:puntoX "443840.5928999996"^^xsd:float ;
+    ns1:puntoY "4467591.359099999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vallecas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Alberto%20Aguilera%209> a ns1:Ubicacion ;
+    rdfs:label "Calle Alberto Aguilera 9" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "Calle Alberto Aguilera 9" ;
+    ns1:puntoX "439914.7400000002"^^xsd:float ;
+    ns1:puntoY "4475692.23"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Universidad> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Alcal%C3%A1%2017.%20Parking%20de%20Canalejas.> a ns1:Ubicacion ;
+    rdfs:label "Calle Alcalá 17. Parking de Canalejas." ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Aparcamiento" ;
+    ns1:nombreUbicacion "Calle Alcalá 17. Parking de Canalejas." ;
+    ns1:puntoX "440606.5312999999"^^xsd:float ;
+    ns1:puntoY "4474372.021400001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Sol> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Alcal%C3%A1%20510%20%28CRED%20San%20Blas%29> a ns1:Ubicacion ;
+    rdfs:label "Calle Alcalá 510 (CRED San Blas)" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "Calle Alcalá 510 (CRED San Blas)" ;
+    ns1:puntoX "446962.6299999999"^^xsd:float ;
+    ns1:puntoY "4476913.48"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Simancas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Alfonso%20XII%2C%202> a ns1:Ubicacion ;
+    rdfs:label "Calle Alfonso XII, 2" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Alfonso XII, 2" ;
+    ns1:puntoX "441553.7599999998"^^xsd:float ;
+    ns1:puntoY "4474522.8100000005"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Jer%C3%B3nimos> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Alto%20del%20Retiro%2C%20s%2Fn> a ns1:Ubicacion ;
+    rdfs:label "Calle Alto del Retiro, s/n" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "Calle Alto del Retiro, s/n" ;
+    ns1:puntoX "450102.95999999996"^^xsd:float ;
+    ns1:puntoY "4468607.43"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Ensanche%20de%20Vallecas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Amparo%20Usera%2C%2046.%20Mercado%20Usera> a ns1:Ubicacion ;
+    rdfs:label "Calle Amparo Usera, 46. Mercado Usera" ;
+    ns1:emplazamiento "Mercado municipal" ;
+    ns1:nombreUbicacion "Calle Amparo Usera, 46. Mercado Usera" ;
+    ns1:puntoX "440032.88999999966"^^xsd:float ;
+    ns1:puntoY "4470962.540100001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Moscard%C3%B3> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Buen%20Suceso%2C%2027> a ns1:Ubicacion ;
+    rdfs:label "Calle Buen Suceso, 27" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Buen Suceso, 27" ;
+    ns1:puntoX "438915.33719999995"^^xsd:float ;
+    ns1:puntoY "4475484.026799999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Arg%C3%BCelles> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Bueso%20Pineda%2029> a ns1:Ubicacion ;
+    rdfs:label "Calle Bueso Pineda 29" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Bueso Pineda 29" ;
+    ns1:puntoX "444431.8099999996"^^xsd:float ;
+    ns1:puntoY "4478363.82"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/San%20Juan%20Bautista> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Cardenal%20Marcelo%20Sp%C3%ADnola%206> a ns1:Ubicacion ;
+    rdfs:label "Calle Cardenal Marcelo Spínola 6" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Cardenal Marcelo Spínola 6" ;
+    ns1:puntoX "443204.66000000015"^^xsd:float ;
+    ns1:puntoY "4479841.35"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Castilla> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Castell%C3%B3%20105> a ns1:Ubicacion ;
+    rdfs:label "Calle Castelló 105" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Castelló 105" ;
+    ns1:puntoX "442261.1500000004"^^xsd:float ;
+    ns1:puntoY "4476262.4399999995"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Castellana> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Cerro%20de%20la%20Plata%204> a ns1:Ubicacion ;
+    rdfs:label "Calle Cerro de la Plata 4" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Cerro de la Plata 4" ;
+    ns1:puntoX "442701.5800000001"^^xsd:float ;
+    ns1:puntoY "4472363.01"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Adelfas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Chulapos%20s%2Fn> a ns1:Ubicacion ;
+    rdfs:label "Calle Chulapos s/n" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Chulapos s/n" ;
+    ns1:puntoX "438893.73000000045"^^xsd:float ;
+    ns1:puntoY "4473226.26"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Imperial> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Esteban%20Mora%2C%2043> a ns1:Ubicacion ;
+    rdfs:label "Calle Esteban Mora, 43" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Esteban Mora, 43" ;
+    ns1:puntoX "444526.41060000006"^^xsd:float ;
+    ns1:puntoY "4476666.0154"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/San%20Pascual> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Fern%C3%A1ndez%20de%20los%20R%C3%ADos%2042> a ns1:Ubicacion ;
+    rdfs:label "Calle Fernández de los Ríos 42" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Fernández de los Ríos 42" ;
+    ns1:puntoX "439847.4500000002"^^xsd:float ;
+    ns1:puntoY "4476302.27"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Arapiles> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Fuencarral%20114> a ns1:Ubicacion ;
+    rdfs:label "Calle Fuencarral 114" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Fuencarral 114" ;
+    ns1:puntoX "440414.1799999997"^^xsd:float ;
+    ns1:puntoY "4475676.4"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Trafalgar> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20G%C3%A9nova%2024> a ns1:Ubicacion ;
+    rdfs:label "Calle Génova 24" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Génova 24" ;
+    ns1:puntoX "441265.93149999995"^^xsd:float ;
+    ns1:puntoY "4475256.8314"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Justicia> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Godella%20116> a ns1:Ubicacion ;
+    rdfs:label "Calle Godella 116" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Godella 116" ;
+    ns1:puntoX "441508.0669"^^xsd:float ;
+    ns1:puntoY "4465807.8813000005"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/San%20Crist%C3%B3bal> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Goya%20123> a ns1:Ubicacion ;
+    rdfs:label "Calle Goya 123" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Goya 123" ;
+    ns1:puntoX "443066.58999999985"^^xsd:float ;
+    ns1:puntoY "4475108.890000001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Goya> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Goya%2036> a ns1:Ubicacion ;
+    rdfs:label "Calle Goya 36" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Goya 36" ;
+    ns1:puntoX "442227.26999999955"^^xsd:float ;
+    ns1:puntoY "4475141.529999999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Recoletos> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Guare%C3%B1a%20cv%20av%20Aguilas> a ns1:Ubicacion ;
+    rdfs:label "Calle Guareña cv av Aguilas" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Guareña cv av Aguilas" ;
+    ns1:puntoX "435098.28029999975"^^xsd:float ;
+    ns1:puntoY "4470762.069599999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Las%20%C3%81guilas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Hacienda%20de%20Pavones%20231%20%28enfrente%20del%20LIDL%29> a ns1:Ubicacion ;
+    rdfs:label "Calle Hacienda de Pavones 231 (enfrente del LIDL)" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Hacienda de Pavones 231 (enfrente del LIDL)" ;
+    ns1:puntoX "446142.3212000001"^^xsd:float ;
+    ns1:puntoY "4472412.6041"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Pavones> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Hiedra%2036> a ns1:Ubicacion ;
+    rdfs:label "Calle Hiedra 36" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Aparcamiento público rotación. EMT" ;
+    ns1:nombreUbicacion "Calle Hiedra 36" ;
+    ns1:puntoX "442442.16000000015"^^xsd:float ;
+    ns1:puntoY "4480402.5"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Castilla> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Hilario%20Herranz%20Establos%2C%2020> a ns1:Ubicacion ;
+    rdfs:label "Calle Hilario Herranz Establos, 20" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "Calle Hilario Herranz Establos, 20" ;
+    ns1:puntoX "438101.2599999998"^^xsd:float ;
+    ns1:puntoY "4469380.779999999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Buenavista> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Ibiza%201> a ns1:Ubicacion ;
+    rdfs:label "Calle Ibiza 1" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Ibiza 1" ;
+    ns1:puntoX "442444.5301000001"^^xsd:float ;
+    ns1:puntoY "4474433.539999999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Ibiza> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Infanta%20Mercedes%2096> a ns1:Ubicacion ;
+    rdfs:label "Calle Infanta Mercedes 96" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Infanta Mercedes 96" ;
+    ns1:puntoX "441222.48280000035"^^xsd:float ;
+    ns1:puntoY "4479443.1107"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Castillejos> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Juan%20Mieg%2013> a ns1:Ubicacion ;
+    rdfs:label "Calle Juan Mieg 13" ;
+    ns1:emplazamiento "Electrolinera" ;
+    ns1:infoAdicional "Electrolinera" ;
+    ns1:nombreUbicacion "Calle Juan Mieg 13" ;
+    ns1:puntoX "438122.50430000015"^^xsd:float ;
+    ns1:puntoY "4469251.8621"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Buenavista> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Manuel%20Silvela%2016> a ns1:Ubicacion ;
+    rdfs:label "Calle Manuel Silvela 16" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Manuel Silvela 16" ;
+    ns1:puntoX "440694.0"^^xsd:float ;
+    ns1:puntoY "4475775.0"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Trafalgar> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Marqu%C3%A9s%20de%20Urquijo%2C%2027> a ns1:Ubicacion ;
+    rdfs:label "Calle Marqués de Urquijo, 27" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Aparcamiento privado rotación" ;
+    ns1:nombreUbicacion "Calle Marqués de Urquijo, 27" ;
+    ns1:puntoX "439003.6699999999"^^xsd:float ;
+    ns1:puntoY "4475684.859999999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Arg%C3%BCelles> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Mart%C3%ADnez%20de%20la%20Riva%2C%204.%20Mercado%20Puente%20de%20Vallecas> a ns1:Ubicacion ;
+    rdfs:label "Calle Martínez de la Riva, 4. Mercado Puente de Vallecas" ;
+    ns1:emplazamiento "Mercado municipal" ;
+    ns1:nombreUbicacion "Calle Martínez de la Riva, 4. Mercado Puente de Vallecas" ;
+    ns1:puntoX "443330.70990000013"^^xsd:float ;
+    ns1:puntoY "4471839.3704"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/San%20Diego> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Nanclares%20de%20Oca%2C%205-17> a ns1:Ubicacion ;
+    rdfs:label "Calle Nanclares de Oca, 5-17" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:nombreUbicacion "Calle Nanclares de Oca, 5-17" ;
+    ns1:puntoX "451189.4500000002"^^xsd:float ;
+    ns1:puntoY "4477428.74"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Rejas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Ofelia%20Nieto%2C%2064> a ns1:Ubicacion ;
+    rdfs:label "Calle Ofelia Nieto, 64" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "Calle Ofelia Nieto, 64" ;
+    ns1:puntoX "439921.8700000001"^^xsd:float ;
+    ns1:puntoY "4479217.9399999995"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Berruguete> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Pamplona%2C%2063> a ns1:Ubicacion ;
+    rdfs:label "Calle Pamplona, 63" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Pamplona, 63" ;
+    ns1:puntoX "439988.1624999996"^^xsd:float ;
+    ns1:puntoY "4478653.073000001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Bellas%20Vistas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Pirotecnia%2047> a ns1:Ubicacion ;
+    rdfs:label "Calle Pirotecnia 47" ;
+    ns1:emplazamiento "Electrolinera" ;
+    ns1:infoAdicional "Electrolinera" ;
+    ns1:nombreUbicacion "Calle Pirotecnia 47" ;
+    ns1:puntoX "449560.76489999983"^^xsd:float ;
+    ns1:puntoY "4471993.485400001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vic%C3%A1lvaro> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20San%20Aquilino%2C%201%20B> a ns1:Ubicacion ;
+    rdfs:label "Calle San Aquilino, 1 B" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Iniciativa privada" ;
+    ns1:nombreUbicacion "Calle San Aquilino, 1 B" ;
+    ns1:puntoX "441420.45859999955"^^xsd:float ;
+    ns1:puntoY "4479879.976600001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Almenara> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20San%20Claudio%2C%20154%20%28frente%20a%20Centro%20de%20Salud%29> a ns1:Ubicacion ;
+    rdfs:label "Calle San Claudio, 154 (frente a Centro de Salud)" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle San Claudio, 154 (frente a Centro de Salud)" ;
+    ns1:puntoX "445763.50769999996"^^xsd:float ;
+    ns1:puntoY "4471107.2884"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Palomeras%20Sureste> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Santa%20Engracia%20115> a ns1:Ubicacion ;
+    rdfs:label "Calle Santa Engracia 115" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Santa Engracia 115" ;
+    ns1:puntoX "440607.2599999998"^^xsd:float ;
+    ns1:puntoY "4476613.59"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Trafalgar> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Santander%2C%205> a ns1:Ubicacion ;
+    rdfs:label "Calle Santander, 5" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Santander, 5" ;
+    ns1:puntoX "439785.47919999994"^^xsd:float ;
+    ns1:puntoY "4477185.473200001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Vallehermoso> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Sinfonia%2C%209%20%28ES%20Ballenoil%20Aviaci%C3%B3n%29> a ns1:Ubicacion ;
+    rdfs:label "Calle Sinfonia, 9 (ES Ballenoil Aviación)" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "Calle Sinfonia, 9 (ES Ballenoil Aviación)" ;
+    ns1:puntoX "434058.4891999997"^^xsd:float ;
+    ns1:puntoY "4469583.3902"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Cuatro%20Vientos> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Valle%20de%20Tobalina%2C%2024%20%28ES%20Ballenoil%29> a ns1:Ubicacion ;
+    rdfs:label "Calle Valle de Tobalina, 24 (ES Ballenoil)" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "Calle Valle de Tobalina, 24 (ES Ballenoil)" ;
+    ns1:puntoX "439248.7000000002"^^xsd:float ;
+    ns1:puntoY "4465309.949999999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Villaverde%20Alto%2C%20Casco%20Hist%C3%B3rico%20de%20Villaverde> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Vel%C3%A1zquez%2074> a ns1:Ubicacion ;
+    rdfs:label "Calle Velázquez 74" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Velázquez 74" ;
+    ns1:puntoX "442015.28000000026"^^xsd:float ;
+    ns1:puntoY "4475633.050000001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Castellana> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Verdaguer%20y%20Garc%C3%ADa%205%20%28Ipark-Verdaguer%20ampliaci%C3%B3n%29> a ns1:Ubicacion ;
+    rdfs:label "Calle Verdaguer y García 5 (Ipark-Verdaguer ampliación)" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:nombreUbicacion "Calle Verdaguer y García 5 (Ipark-Verdaguer ampliación)" ;
+    ns1:puntoX "444355.29000000004"^^xsd:float ;
+    ns1:puntoY "4476807.18"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/San%20Pascual> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20Villardondiego%2C%2034> a ns1:Ubicacion ;
+    rdfs:label "Calle Villardondiego, 34" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle Villardondiego, 34" ;
+    ns1:puntoX "448353.1794999996"^^xsd:float ;
+    ns1:puntoY "4472998.541999999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vic%C3%A1lvaro> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20de%20Luis%20Peidr%C3%B3%2C%2011> a ns1:Ubicacion ;
+    rdfs:label "Calle de Luis Peidró, 11" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle de Luis Peidró, 11" ;
+    ns1:puntoX "442874.06340000033"^^xsd:float ;
+    ns1:puntoY "4472020.790899999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Adelfas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20de%20Minerva%2C%2017> a ns1:Ubicacion ;
+    rdfs:label "Calle de Minerva, 17" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle de Minerva, 17" ;
+    ns1:puntoX "449179.82550000027"^^xsd:float ;
+    ns1:puntoY "4472656.580600001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Valderrivas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20de%20Roberto%20Domingo%2C%204> a ns1:Ubicacion ;
+    rdfs:label "Calle de Roberto Domingo, 4" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle de Roberto Domingo, 4" ;
+    ns1:puntoX "443931.7017999999"^^xsd:float ;
+    ns1:puntoY "4476140.9223"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/La%20Guindalera> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20de%20Santa%20Florencia%20%28enfrente%20del%201%29> a ns1:Ubicacion ;
+    rdfs:label "Calle de Santa Florencia (enfrente del 1)" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle de Santa Florencia (enfrente del 1)" ;
+    ns1:puntoX "441314.03610000014"^^xsd:float ;
+    ns1:puntoY "4466782.200999999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Los%20Rosales> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20de%20Sinesio%20Delgado%202> a ns1:Ubicacion ;
+    rdfs:label "Calle de Sinesio Delgado 2" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle de Sinesio Delgado 2" ;
+    ns1:puntoX "441683.5999999996"^^xsd:float ;
+    ns1:puntoY "4480640.99"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/La%20Paz> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20del%20General%20Lacy%2C%2021> a ns1:Ubicacion ;
+    rdfs:label "Calle del General Lacy, 21" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle del General Lacy, 21" ;
+    ns1:puntoX "441386.75150000025"^^xsd:float ;
+    ns1:puntoY "4472591.668"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Palos%20de%20la%20Frontera> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20del%20Monasterio%20de%20Arlanza%2C%2020%20%28Centro%20Comercial%20Montecarmelo%29> a ns1:Ubicacion ;
+    rdfs:label "Calle del Monasterio de Arlanza, 20 (Centro Comercial Montecarmelo)" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Aparcamiento privado rotación. Iniciativa privada" ;
+    ns1:nombreUbicacion "Calle del Monasterio de Arlanza, 20 (Centro Comercial Montecarmelo)" ;
+    ns1:puntoX "441485.26999999955"^^xsd:float ;
+    ns1:puntoY "4484580.970000001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/El%20Goloso> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Calle%20del%20Parque%20Eugenia%20de%20Montijo%2C%2036> a ns1:Ubicacion ;
+    rdfs:label "Calle del Parque Eugenia de Montijo, 36" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Calle del Parque Eugenia de Montijo, 36" ;
+    ns1:puntoX "436111.0296"^^xsd:float ;
+    ns1:puntoY "4470121.1822999995"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Vista%20Alegre> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Camino%20de%20la%20Zarzuela%2C%2025> a ns1:Ubicacion ;
+    rdfs:label "Camino de la Zarzuela, 25" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Camino de la Zarzuela, 25" ;
+    ns1:puntoX "433286.9132000003"^^xsd:float ;
+    ns1:puntoY "4479719.9385"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Valdemar%C3%ADn> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Carretera%20de%20Villaverde%20a%20Vallecas%20278> a ns1:Ubicacion ;
+    rdfs:label "Carretera de Villaverde a Vallecas 278" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "Carretera de Villaverde a Vallecas 278" ;
+    ns1:puntoX "445890.7400000002"^^xsd:float ;
+    ns1:puntoY "4469312.6"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vallecas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/ES%20Aravaca%20-%20El%20Plant%C3%ADo%20%28Avenida%20Victoria%2034%29> a ns1:Ubicacion ;
+    rdfs:label "ES Aravaca - El Plantío (Avenida Victoria 34)" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "ES Aravaca - El Plantío (Avenida Victoria 34)" ;
+    ns1:puntoX "430479.36000000034"^^xsd:float ;
+    ns1:puntoY "4480122.57"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/El%20Plant%C3%ADo> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/ES%20Avenida%20de%20Andaluc%C3%ADa%2038%20-%20Carretera%20A-4%20PK6.70%20D> a ns1:Ubicacion ;
+    rdfs:label "ES Avenida de Andalucía 38 - Carretera A-4 PK6.70 D" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:infoAdicional "Aparcamiento privado rotación" ;
+    ns1:nombreUbicacion "ES Avenida de Andalucía 38 - Carretera A-4 PK6.70 D" ;
+    ns1:puntoX "441035.88489999995"^^xsd:float ;
+    ns1:puntoY "4468671.341700001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Orcasur> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/ES%20Calle%20Arturo%20Soria%2C%20175> a ns1:Ubicacion ;
+    rdfs:label "ES Calle Arturo Soria, 175" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "ES Calle Arturo Soria, 175" ;
+    ns1:puntoX "444202.21999999974"^^xsd:float ;
+    ns1:puntoY "4478730.3100000005"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Colina> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/ES%20Hip%C3%B3dromo%28CR%20A-6%2C%208%29> a ns1:Ubicacion ;
+    rdfs:label "ES Hipódromo(CR A-6, 8)" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "ES Hipódromo(CR A-6, 8)" ;
+    ns1:puntoX "435728.6799999997"^^xsd:float ;
+    ns1:puntoY "4479193.77"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Ciudad%20Universitaria> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/ES%20Repsol%2033826%20-%20P%C2%BA%20Extremadura%20543%20%28A5%20PK9%29> a ns1:Ubicacion ;
+    rdfs:label "ES Repsol 33826 - Pº Extremadura 543 (A5 PK9)" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "ES Repsol 33826 - Pº Extremadura 543 (A5 PK9)" ;
+    ns1:puntoX "432896.0099999998"^^xsd:float ;
+    ns1:puntoY "4470164.9399999995"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Cuatro%20Vientos> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/ES%20Repsol%2096849%20-%20Calle%20Abetal%208%20-%20Las%20Tablas> a ns1:Ubicacion ;
+    rdfs:label "ES Repsol 96849 - Calle Abetal 8 - Las Tablas" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "ES Repsol 96849 - Calle Abetal 8 - Las Tablas" ;
+    ns1:puntoX "443805.23000000045"^^xsd:float ;
+    ns1:puntoY "4483684.43"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Valverde> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/ESTACI%C3%93N%20DE%20SUMINISTRO%20GNC%20%28CTM%29%2C%20Avenida%20Eje%20Central%2C%207> a ns1:Ubicacion ;
+    rdfs:label "ESTACIÓN DE SUMINISTRO GNC (CTM), Avenida Eje Central, 7" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "ESTACIÓN DE SUMINISTRO GNC (CTM), Avenida Eje Central, 7" ;
+    ns1:puntoX "444372.2000000002"^^xsd:float ;
+    ns1:puntoY "4468663.387800001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vallecas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Estaci%C3%B3n%20de%20Servicio%20SUDEL%2C%20Calle%20Ricardo%20Ortiz%2C%2044> a ns1:Ubicacion ;
+    rdfs:label "Estación de Servicio SUDEL, Calle Ricardo Ortiz, 44" ;
+    ns1:emplazamiento "Estación de servicio" ;
+    ns1:nombreUbicacion "Estación de Servicio SUDEL, Calle Ricardo Ortiz, 44" ;
+    ns1:puntoX "444134.96999999974"^^xsd:float ;
+    ns1:puntoY "4475248.08"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Ventas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Glorieta%20De%20Sandro%20Pertini%20%28frente%20a%20edificio%20c%2F%20Arequipa%2C%201%29> a ns1:Ubicacion ;
+    rdfs:label "Glorieta De Sandro Pertini (frente a edificio c/ Arequipa, 1)" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Glorieta De Sandro Pertini (frente a edificio c/ Arequipa, 1)" ;
+    ns1:puntoX "445579.8598999996"^^xsd:float ;
+    ns1:puntoY "4480025.5274"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Pinar%20del%20Rey> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Hospital%20Vithas%20Clinsa%20SA.%20Calle%20de%20Ram%C3%ADrez%20de%20Arellano%2C%202> a ns1:Ubicacion ;
+    rdfs:label "Hospital Vithas Clinsa SA. Calle de Ramírez de Arellano, 2" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:nombreUbicacion "Hospital Vithas Clinsa SA. Calle de Ramírez de Arellano, 2" ;
+    ns1:puntoX "444662.09530000016"^^xsd:float ;
+    ns1:puntoY "4477889.0252"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/San%20Juan%20Bautista> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Hospital%20Vithas%20Pardo%20de%20Aravaca.%20Calle%20de%20la%20Salle%2C%2012> a ns1:Ubicacion ;
+    rdfs:label "Hospital Vithas Pardo de Aravaca. Calle de la Salle, 12" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:nombreUbicacion "Hospital Vithas Pardo de Aravaca. Calle de la Salle, 12" ;
+    ns1:puntoX "433583.0669"^^xsd:float ;
+    ns1:puntoY "4479813.2192"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Valdemar%C3%ADn> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Jardines%20del%20Descubrimiento%20-%20Acceso%20a%20Complejo%20de%20Aparcamientos%20subterr%C3%A1neos%20por%20Calle%20de%20la%20Armada%20Espa%C3%B1ola> a ns1:Ubicacion ;
+    rdfs:label "Jardines del Descubrimiento - Acceso a Complejo de Aparcamientos subterráneos por Calle de la Armada Española" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Aparcamiento público rotación. EMT" ;
+    ns1:nombreUbicacion "Jardines del Descubrimiento - Acceso a Complejo de Aparcamientos subterráneos por Calle de la Armada Española" ;
+    ns1:puntoX "441474.0800000001"^^xsd:float ;
+    ns1:puntoY "4475110.1899999995"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Recoletos> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Mercado%20Central%20de%20Frutas%20y%20Verduras%20%28Parcela%20H5%29> a ns1:Ubicacion ;
+    rdfs:label "Mercado Central de Frutas y Verduras (Parcela H5)" ;
+    ns1:emplazamiento "Mercamadrid" ;
+    ns1:infoAdicional "Mercamadrid" ;
+    ns1:nombreUbicacion "Mercado Central de Frutas y Verduras (Parcela H5)" ;
+    ns1:puntoX "443999.3558"^^xsd:float ;
+    ns1:puntoY "4467828.001599999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vallecas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Mercado%20Municipal%20de%20Maravillas%2C%20Calle%20Bravo%20Murillo%20122> a ns1:Ubicacion ;
+    rdfs:label "Mercado Municipal de Maravillas, Calle Bravo Murillo 122" ;
+    ns1:emplazamiento "Mercado municipal" ;
+    ns1:infoAdicional "Mercado Municipal" ;
+    ns1:nombreUbicacion "Mercado Municipal de Maravillas, Calle Bravo Murillo 122" ;
+    ns1:puntoX "440347.6500000004"^^xsd:float ;
+    ns1:puntoY "4477839.43"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Cuatro%20Caminos> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Mercado%20de%20Guindalera.%20Plaza%20de%20San%20Cayetano%2C%20s%2Fn> a ns1:Ubicacion ;
+    rdfs:label "Mercado de Guindalera. Plaza de San Cayetano, s/n" ;
+    ns1:emplazamiento "Mercado municipal" ;
+    ns1:infoAdicional "Mercado Municipal" ;
+    ns1:nombreUbicacion "Mercado de Guindalera. Plaza de San Cayetano, s/n" ;
+    ns1:puntoX "443112.6498999996"^^xsd:float ;
+    ns1:puntoY "4476133.98"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/La%20Guindalera> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Mercado%20de%20la%20Cebada.%20Plaza%20de%20la%20Cebada> a ns1:Ubicacion ;
+    rdfs:label "Mercado de la Cebada. Plaza de la Cebada" ;
+    ns1:emplazamiento "Mercado municipal" ;
+    ns1:infoAdicional "Mercado Municipal" ;
+    ns1:nombreUbicacion "Mercado de la Cebada. Plaza de la Cebada" ;
+    ns1:puntoX "439749.0700000003"^^xsd:float ;
+    ns1:puntoY "4473590.8100000005"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Palacio> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Mercado%20de%20las%20%C3%81guilas%20-%20Calle%20de%20Jos%C3%A9%20Cadalso> a ns1:Ubicacion ;
+    rdfs:label "Mercado de las Águilas - Calle de José Cadalso" ;
+    ns1:emplazamiento "Mercado municipal" ;
+    ns1:infoAdicional "Mercado Municipal" ;
+    ns1:nombreUbicacion "Mercado de las Águilas - Calle de José Cadalso" ;
+    ns1:puntoX "434762.2400000002"^^xsd:float ;
+    ns1:puntoY "4469976.18"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Las%20%C3%81guilas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/OnTime%20-%20Avenida%20Marconi%2C%204> a ns1:Ubicacion ;
+    rdfs:label "OnTime - Avenida Marconi, 4" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:nombreUbicacion "OnTime - Avenida Marconi, 4" ;
+    ns1:puntoX "441120.67349999957"^^xsd:float ;
+    ns1:puntoY "4465078.710999999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Villaverde%20Alto%2C%20Casco%20Hist%C3%B3rico%20de%20Villaverde> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Parcela%20B14%20Anexo%20Calle%203> a ns1:Ubicacion ;
+    rdfs:label "Parcela B14 Anexo Calle 3" ;
+    ns1:emplazamiento "Mercamadrid" ;
+    ns1:nombreUbicacion "Parcela B14 Anexo Calle 3" ;
+    ns1:puntoX "443061.52139999997"^^xsd:float ;
+    ns1:puntoY "4467834.868799999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vallecas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Parcela%20D.2.1%20Anexo%20avenida%20de%20legazpi> a ns1:Ubicacion ;
+    rdfs:label "Parcela D.2.1 Anexo avenida de legazpi" ;
+    ns1:emplazamiento "Mercamadrid" ;
+    ns1:nombreUbicacion "Parcela D.2.1 Anexo avenida de legazpi" ;
+    ns1:puntoX "443790.1721000001"^^xsd:float ;
+    ns1:puntoY "4467889.6544"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vallecas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Parcela%20E4%20Anexo%20Avda%20Legazpi> a ns1:Ubicacion ;
+    rdfs:label "Parcela E4 Anexo Avda Legazpi" ;
+    ns1:emplazamiento "Mercamadrid" ;
+    ns1:nombreUbicacion "Parcela E4 Anexo Avda Legazpi" ;
+    ns1:puntoX "443986.28170000017"^^xsd:float ;
+    ns1:puntoY "4468371.2941"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vallecas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Parking%20Coslada%203.%20Calle%20de%20Coslada%2C%203> a ns1:Ubicacion ;
+    rdfs:label "Parking Coslada 3. Calle de Coslada, 3" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:nombreUbicacion "Parking Coslada 3. Calle de Coslada, 3" ;
+    ns1:puntoX "442688.37090000045"^^xsd:float ;
+    ns1:puntoY "4476502.7632"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/La%20Guindalera> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Paseo%20Castellana%20106> a ns1:Ubicacion ;
+    rdfs:label "Paseo Castellana 106" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Paseo Castellana 106" ;
+    ns1:puntoX "441420.4900000002"^^xsd:float ;
+    ns1:puntoY "4477426.85"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/El%20Viso> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Paseo%20Castellana%20160> a ns1:Ubicacion ;
+    rdfs:label "Paseo Castellana 160" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Paseo Castellana 160" ;
+    ns1:puntoX "441528.4500000002"^^xsd:float ;
+    ns1:puntoY "4478870.199999999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Hispanoam%C3%A9rica> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Paseo%20Castellana%2033> a ns1:Ubicacion ;
+    rdfs:label "Paseo Castellana 33" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Paseo Castellana 33" ;
+    ns1:puntoX "441547.4299999997"^^xsd:float ;
+    ns1:puntoY "4475930.09"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Almagro> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Paseo%20Castellana%2052> a ns1:Ubicacion ;
+    rdfs:label "Paseo Castellana 52" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Paseo Castellana 52" ;
+    ns1:puntoX "441650.0"^^xsd:float ;
+    ns1:puntoY "4476325.0"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Castellana> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Paseo%20Imperial> a ns1:Ubicacion ;
+    rdfs:label "Paseo Imperial" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Paseo Imperial" ;
+    ns1:puntoX "439201.2687999997"^^xsd:float ;
+    ns1:puntoY "4472757.7301"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Imperial> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Paseo%20Polideportivo%20s%2Fn.%20Centro%20Deportivo%20Margot%20Moles> a ns1:Ubicacion ;
+    rdfs:label "Paseo Polideportivo s/n. Centro Deportivo Margot Moles" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Paseo Polideportivo s/n. Centro Deportivo Margot Moles" ;
+    ns1:puntoX "448775.06960000005"^^xsd:float ;
+    ns1:puntoY "4473350.615700001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vic%C3%A1lvaro> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Paseo%20Recoletos%204> a ns1:Ubicacion ;
+    rdfs:label "Paseo Recoletos 4" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Aparcamiento público rotación. EMT" ;
+    ns1:nombreUbicacion "Paseo Recoletos 4" ;
+    ns1:puntoX "441292.8770000003"^^xsd:float ;
+    ns1:puntoY "4474670.7732"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Recoletos> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Plaza%20de%20Jacinto%20Benavente%206> a ns1:Ubicacion ;
+    rdfs:label "Plaza de Jacinto Benavente 6" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Aparcamiento público rotación. EMT" ;
+    ns1:nombreUbicacion "Plaza de Jacinto Benavente 6" ;
+    ns1:puntoX "440341.5499999998"^^xsd:float ;
+    ns1:puntoY "4474015.140000001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Sol> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Plaza%20de%20Marqu%C3%A9s%20de%20Salamanca> a ns1:Ubicacion ;
+    rdfs:label "Plaza de Marqués de Salamanca" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Aparcamiento público rotación. EMT" ;
+    ns1:nombreUbicacion "Plaza de Marqués de Salamanca" ;
+    ns1:puntoX "442391.2000000002"^^xsd:float ;
+    ns1:puntoY "4475742.85"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Lista> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Plaza%20de%20la%20Cebada> a ns1:Ubicacion ;
+    rdfs:label "Plaza de la Cebada" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Iniciativa privada" ;
+    ns1:nombreUbicacion "Plaza de la Cebada" ;
+    ns1:puntoX "439744.74849999975"^^xsd:float ;
+    ns1:puntoY "4473589.8399"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Palacio> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Plaza%20de%20la%20Lealtad%2C%20s%2Fn> a ns1:Ubicacion ;
+    rdfs:label "Plaza de la Lealtad, s/n" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Plaza de la Lealtad, s/n" ;
+    ns1:puntoX "441289.70999999996"^^xsd:float ;
+    ns1:puntoY "4474176.6598000005"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Jer%C3%B3nimos> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Plaza%20del%20Conde%20de%20Casal%206> a ns1:Ubicacion ;
+    rdfs:label "Plaza del Conde de Casal 6" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:infoAdicional "Aparcamiento privado rotación. Iniciativa privada" ;
+    ns1:nombreUbicacion "Plaza del Conde de Casal 6" ;
+    ns1:puntoX "443198.95999999996"^^xsd:float ;
+    ns1:puntoY "4473071.619999999"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Adelfas> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Plaza%20del%20Conde%20de%20Valle%20de%20Suchil> a ns1:Ubicacion ;
+    rdfs:label "Plaza del Conde de Valle de Suchil" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Plaza del Conde de Valle de Suchil" ;
+    ns1:puntoX "440038.8300000001"^^xsd:float ;
+    ns1:puntoY "4475778.210000001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Arapiles> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Ronda%20de%20Valencia%201> a ns1:Ubicacion ;
+    rdfs:label "Ronda de Valencia 1" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Ronda de Valencia 1" ;
+    ns1:puntoX "440624.23000000045"^^xsd:float ;
+    ns1:puntoY "4473016.220000001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Palos%20de%20la%20Frontera> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/SEDE%20NATURGY%2C%20Av%20San%20Luis%2C%2077> a ns1:Ubicacion ;
+    rdfs:label "SEDE NATURGY, Av San Luis, 77" ;
+    ns1:emplazamiento "Aparcamiento" ;
+    ns1:nombreUbicacion "SEDE NATURGY, Av San Luis, 77" ;
+    ns1:puntoX "443786.9299999997"^^xsd:float ;
+    ns1:puntoY "4480466.050000001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Ap%C3%B3stol%20Santiago> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Ubicacion/Traves%C3%ADa%20Santo%C3%B1a%2C%204> a ns1:Ubicacion ;
+    rdfs:label "Travesía Santoña, 4" ;
+    ns1:emplazamiento "Vía pública" ;
+    ns1:nombreUbicacion "Travesía Santoña, 4" ;
+    ns1:puntoX "439304.07189999986"^^xsd:float ;
+    ns1:puntoY "4470352.299900001"^^xsd:float ;
+    ns1:ubicadoEnBarrio <http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Zof%C3%ADo> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Arapiles> a ns1:Barrio ;
+    rdfs:label "Arapiles" ;
+    ns1:codBarrio 2 ;
+    ns1:nombreBarrio "Arapiles" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Chamber%C3%AD> ;
+    owl:sameAs <https://wikidata.org/entity/Q10856744> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Arg%C3%BCelles> a ns1:Barrio ;
+    rdfs:label "Argüelles" ;
+    ns1:codBarrio 2 ;
+    ns1:nombreBarrio "Argüelles" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Moncloa-Aravaca> ;
+    owl:sameAs <https://wikidata.org/entity/Q64874> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Buenavista> a ns1:Barrio ;
+    rdfs:label "Buenavista" ;
+    ns1:codBarrio 6 ;
+    ns1:nombreBarrio "Buenavista" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Carabanchel> ;
+    owl:sameAs <https://wikidata.org/entity/Q953929> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Castilla> a ns1:Barrio ;
+    rdfs:label "Castilla" ;
+    ns1:codBarrio 6 ;
+    ns1:nombreBarrio "Castilla" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Chamart%C3%ADn> ;
+    owl:sameAs <https://wikidata.org/entity/Q3813735> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Cuatro%20Caminos> a ns1:Barrio ;
+    rdfs:label "Cuatro Caminos" ;
+    ns1:codBarrio 2 ;
+    ns1:nombreBarrio "Cuatro Caminos" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Tetu%C3%A1n> ;
+    owl:sameAs <https://wikidata.org/entity/Q5824684> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/El%20Pilar> a ns1:Barrio ;
+    rdfs:label "El Pilar" ;
+    ns1:codBarrio 4 ;
+    ns1:nombreBarrio "El Pilar" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Fuencarral-El%20Pardo> ;
+    owl:sameAs <https://wikidata.org/entity/Q3773964> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Imperial> a ns1:Barrio ;
+    rdfs:label "Imperial" ;
+    ns1:codBarrio 1 ;
+    ns1:nombreBarrio "Imperial" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Arganzuela> ;
+    owl:sameAs <https://wikidata.org/entity/Q3773740> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Jer%C3%B3nimos> a ns1:Barrio ;
+    rdfs:label "Jerónimos" ;
+    ns1:codBarrio 5 ;
+    ns1:nombreBarrio "Jerónimos" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Retiro> ;
+    owl:sameAs <https://wikidata.org/entity/Q10306766> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Las%20%C3%81guilas> a ns1:Barrio ;
+    rdfs:label "Las Águilas" ;
+    ns1:codBarrio 7 ;
+    ns1:nombreBarrio "Las Águilas" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Latina> ;
+    owl:sameAs <https://wikidata.org/entity/Q5971372> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Palacio> a ns1:Barrio ;
+    rdfs:label "Palacio" ;
+    ns1:codBarrio 1 ;
+    ns1:nombreBarrio "Palacio" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Centro> ;
+    owl:sameAs <https://wikidata.org/entity/Q2136510> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Palomeras%20Sureste> a ns1:Barrio ;
+    rdfs:label "Palomeras Sureste" ;
+    ns1:codBarrio 4 ;
+    ns1:nombreBarrio "Palomeras Sureste" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Puente%20de%20Vallecas> ;
+    owl:sameAs <https://wikidata.org/entity/Q10343901> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Palos%20de%20la%20Frontera> a ns1:Barrio ;
+    rdfs:label "Palos de la Frontera" ;
+    ns1:codBarrio 6 ;
+    ns1:nombreBarrio "Palos de la Frontera" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Arganzuela> ;
+    owl:sameAs <https://wikidata.org/entity/Q521009> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Rejas> a ns1:Barrio ;
+    rdfs:label "Rejas" ;
+    ns1:codBarrio 6 ;
+    ns1:nombreBarrio "Rejas" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/San%20Blas-Canillejas> ;
+    owl:sameAs <https://wikidata.org/entity/Q10359029> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/San%20Juan%20Bautista> a ns1:Barrio ;
+    rdfs:label "San Juan Bautista" ;
+    ns1:codBarrio 6 ;
+    ns1:nombreBarrio "San Juan Bautista" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Ciudad%20Lineal> ;
+    owl:sameAs <https://wikidata.org/entity/Q165609> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/San%20Pascual> a ns1:Barrio ;
+    rdfs:label "San Pascual" ;
+    ns1:codBarrio 5 ;
+    ns1:nombreBarrio "San Pascual" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Ciudad%20Lineal> ;
+    owl:sameAs <https://wikidata.org/entity/Q165612> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Simancas> a ns1:Barrio ;
+    rdfs:label "Simancas" ;
+    ns1:codBarrio 1 ;
+    ns1:nombreBarrio "Simancas" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/San%20Blas-Canillejas> ;
+    owl:sameAs <https://wikidata.org/entity/Q10371626> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Sol> a ns1:Barrio ;
+    rdfs:label "Sol" ;
+    ns1:codBarrio 6 ;
+    ns1:nombreBarrio "Sol" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Centro> ;
+    owl:sameAs <https://wikidata.org/entity/Q2465181> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Valdefuentes> a ns1:Barrio ;
+    rdfs:label "Valdefuentes" ;
+    ns1:codBarrio 6 ;
+    ns1:nombreBarrio "Valdefuentes" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Hortaleza> ;
+    owl:sameAs <https://wikidata.org/entity/Q10388714> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Valdemar%C3%ADn> a ns1:Barrio ;
+    rdfs:label "Valdemarín" ;
+    ns1:codBarrio 5 ;
+    ns1:nombreBarrio "Valdemarín" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Moncloa-Aravaca> ;
+    owl:sameAs <https://wikidata.org/entity/Q10388725> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Villaverde%20Alto%2C%20Casco%20Hist%C3%B3rico%20de%20Villaverde> a ns1:Barrio ;
+    rdfs:label "Villaverde Alto, Casco Histórico de Villaverde" ;
+    ns1:codBarrio 1 ;
+    ns1:nombreBarrio "Villaverde Alto, Casco Histórico de Villaverde" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Villaverde> ;
+    owl:sameAs <https://wikidata.org/entity/Q390435> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Arganzuela> a ns1:Distrito ;
+    rdfs:label "Arganzuela" ;
+    ns1:codDistrito 2 ;
+    ns1:nombreDistrito "Arganzuela" ;
+    owl:sameAs <https://wikidata.org/entity/Q2000929> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Latina> a ns1:Distrito ;
+    rdfs:label "Latina" ;
+    ns1:codDistrito 10 ;
+    ns1:nombreDistrito "Latina" ;
+    owl:sameAs <https://wikidata.org/entity/Q794954> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Puente%20de%20Vallecas> a ns1:Distrito ;
+    rdfs:label "Puente de Vallecas" ;
+    ns1:codDistrito 13 ;
+    ns1:nombreDistrito "Puente de Vallecas" ;
+    owl:sameAs <https://wikidata.org/entity/Q2003054> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Villa%20de%20Vallecas> a ns1:Distrito ;
+    rdfs:label "Villa de Vallecas" ;
+    ns1:codDistrito 18 ;
+    ns1:nombreDistrito "Villa de Vallecas" ;
+    owl:sameAs <https://wikidata.org/entity/Q1947988> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/La%20Vaguada> a ns1:Operador ;
+    rdfs:label "La Vaguada" ;
+    ns1:nombreOperador "La Vaguada" ;
+    owl:sameAs <https://wikidata.org/entity/Q6465598> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/UAM> a ns1:Operador ;
+    rdfs:label "UAM" ;
+    ns1:nombreOperador "UAM" .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Adelfas> a ns1:Barrio ;
+    rdfs:label "Adelfas" ;
+    ns1:codBarrio 2 ;
+    ns1:nombreBarrio "Adelfas" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Retiro> ;
+    owl:sameAs <https://wikidata.org/entity/Q3774001> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vic%C3%A1lvaro> a ns1:Barrio ;
+    rdfs:label "Casco Histórico de Vicálvaro" ;
+    ns1:codBarrio 1 ;
+    ns1:nombreBarrio "Casco Histórico de Vicálvaro" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Vic%C3%A1lvaro> ;
+    owl:sameAs <https://wikidata.org/entity/Q16544374> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Corralejos> a ns1:Barrio ;
+    rdfs:label "Corralejos" ;
+    ns1:codBarrio 5 ;
+    ns1:nombreBarrio "Corralejos" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Barajas> ;
+    owl:sameAs <https://wikidata.org/entity/Q10260772> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Cuatro%20Vientos> a ns1:Barrio ;
+    rdfs:label "Cuatro Vientos" ;
+    ns1:codBarrio 6 ;
+    ns1:nombreBarrio "Cuatro Vientos" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Latina> ;
+    owl:sameAs <https://wikidata.org/entity/Q5191881> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/El%20Goloso> a ns1:Barrio ;
+    rdfs:label "El Goloso" ;
+    ns1:codBarrio 8 ;
+    ns1:nombreBarrio "El Goloso" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Fuencarral-El%20Pardo> ;
+    owl:sameAs <https://wikidata.org/entity/Q10271137> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/La%20Guindalera> a ns1:Barrio ;
+    rdfs:label "La Guindalera" ;
+    ns1:codBarrio 4 ;
+    ns1:nombreBarrio "La Guindalera" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Salamanca> ;
+    owl:sameAs <https://wikidata.org/entity/Q3814559> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Recoletos> a ns1:Barrio ;
+    rdfs:label "Recoletos" ;
+    ns1:codBarrio 1 ;
+    ns1:nombreBarrio "Recoletos" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Salamanca> ;
+    owl:sameAs <https://wikidata.org/entity/Q3814551> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Trafalgar> a ns1:Barrio ;
+    rdfs:label "Trafalgar" ;
+    ns1:codBarrio 3 ;
+    ns1:nombreBarrio "Trafalgar" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Chamber%C3%AD> ;
+    owl:sameAs <https://wikidata.org/entity/Q10384027> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Carabanchel> a ns1:Distrito ;
+    rdfs:label "Carabanchel" ;
+    ns1:codDistrito 11 ;
+    ns1:nombreDistrito "Carabanchel" ;
+    owl:sameAs <https://wikidata.org/entity/Q1001991> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Moratalaz> a ns1:Distrito ;
+    rdfs:label "Moratalaz" ;
+    ns1:codDistrito 14 ;
+    ns1:nombreDistrito "Moratalaz" ;
+    owl:sameAs <https://wikidata.org/entity/Q2076109> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Retiro> a ns1:Distrito ;
+    rdfs:label "Retiro" ;
+    ns1:codDistrito 3 ;
+    ns1:nombreDistrito "Retiro" ;
+    owl:sameAs <https://wikidata.org/entity/Q2002296> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Vic%C3%A1lvaro> a ns1:Distrito ;
+    rdfs:label "Vicálvaro" ;
+    ns1:codDistrito 19 ;
+    ns1:nombreDistrito "Vicálvaro" ;
+    owl:sameAs <https://wikidata.org/entity/Q589403> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/BLAUDRIVE> a ns1:Operador ;
+    rdfs:label "BLAUDRIVE" ;
+    ns1:nombreOperador "BLAUDRIVE" .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/Galp%20Energia> a ns1:Operador ;
+    rdfs:label "Galp Energia" ;
+    ns1:nombreOperador "Galp Energia" ;
+    owl:sameAs <https://wikidata.org/entity/Q1492739> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Castellana> a ns1:Barrio ;
+    rdfs:label "Castellana" ;
+    ns1:codBarrio 6 ;
+    ns1:nombreBarrio "Castellana" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Salamanca> ;
+    owl:sameAs <https://wikidata.org/entity/Q4781> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Centro> a ns1:Distrito ;
+    rdfs:label "Centro" ;
+    ns1:codDistrito 1 ;
+    ns1:nombreDistrito "Centro" ;
+    owl:sameAs <https://wikidata.org/entity/Q1763376> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Chamber%C3%AD> a ns1:Distrito ;
+    rdfs:label "Chamberí" ;
+    ns1:codDistrito 7 ;
+    ns1:nombreDistrito "Chamberí" ;
+    owl:sameAs <https://wikidata.org/entity/Q1763370> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Ciudad%20Lineal> a ns1:Distrito ;
+    rdfs:label "Ciudad Lineal" ;
+    ns1:codDistrito 15 ;
+    ns1:nombreDistrito "Ciudad Lineal" ;
+    owl:sameAs <https://wikidata.org/entity/Q1763694> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Fuencarral-El%20Pardo> a ns1:Distrito ;
+    rdfs:label "Fuencarral-El Pardo" ;
+    ns1:codDistrito 8 ;
+    ns1:nombreDistrito "Fuencarral-El Pardo" ;
+    owl:sameAs <https://wikidata.org/entity/Q656196> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Hortaleza> a ns1:Distrito ;
+    rdfs:label "Hortaleza" ;
+    ns1:codDistrito 16 ;
+    ns1:nombreDistrito "Hortaleza" ;
+    owl:sameAs <https://wikidata.org/entity/Q1928529> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Moncloa-Aravaca> a ns1:Distrito ;
+    rdfs:label "Moncloa-Aravaca" ;
+    ns1:codDistrito 9 ;
+    ns1:nombreDistrito "Moncloa-Aravaca" ;
+    owl:sameAs <https://wikidata.org/entity/Q2017682> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/San%20Blas-Canillejas> a ns1:Distrito ;
+    rdfs:label "San Blas-Canillejas" ;
+    ns1:codDistrito 20 ;
+    ns1:nombreDistrito "San Blas-Canillejas" ;
+    owl:sameAs <https://wikidata.org/entity/Q2001937> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Usera> a ns1:Distrito ;
+    rdfs:label "Usera" ;
+    ns1:codDistrito 12 ;
+    ns1:nombreDistrito "Usera" ;
+    owl:sameAs <https://wikidata.org/entity/Q953368> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Villaverde> a ns1:Distrito ;
+    rdfs:label "Villaverde" ;
+    ns1:codDistrito 17 ;
+    ns1:nombreDistrito "Villaverde" ;
+    owl:sameAs <https://wikidata.org/entity/Q919536> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/Naturgy> a ns1:Operador ;
+    rdfs:label "Naturgy" ;
+    ns1:nombreOperador "Naturgy" ;
+    owl:sameAs <https://wikidata.org/entity/Q474690> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Chamart%C3%ADn> a ns1:Distrito ;
+    rdfs:label "Chamartín" ;
+    ns1:codDistrito 5 ;
+    ns1:nombreDistrito "Chamartín" ;
+    owl:sameAs <https://wikidata.org/entity/Q1766348> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Salamanca> a ns1:Distrito ;
+    rdfs:label "Salamanca" ;
+    ns1:codDistrito 4 ;
+    ns1:nombreDistrito "Salamanca" ;
+    owl:sameAs <https://wikidata.org/entity/Q1773521> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Tetu%C3%A1n> a ns1:Distrito ;
+    rdfs:label "Tetuán" ;
+    ns1:codDistrito 6 ;
+    ns1:nombreDistrito "Tetuán" ;
+    owl:sameAs <https://wikidata.org/entity/Q1773540> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/EMT> a ns1:Operador ;
+    rdfs:label "EMT" ;
+    ns1:nombreOperador "EMT" .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/Wenea> a ns1:Operador ;
+    rdfs:label "Wenea" ;
+    ns1:nombreOperador "Wenea" ;
+    owl:sameAs <https://wikidata.org/entity/Q127503074> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/DRIVE%20THE%20CITY> a ns1:Operador ;
+    rdfs:label "DRIVE THE CITY" ;
+    ns1:nombreOperador "DRIVE THE CITY" .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/Repsol> a ns1:Operador ;
+    rdfs:label "Repsol" ;
+    ns1:nombreOperador "Repsol" ;
+    owl:sameAs <https://wikidata.org/entity/Q174747> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Barrio/Casco%20Hist%C3%B3rico%20de%20Vallecas> a ns1:Barrio ;
+    rdfs:label "Casco Histórico de Vallecas" ;
+    ns1:codBarrio 1 ;
+    ns1:nombreBarrio "Casco Histórico de Vallecas" ;
+    ns1:ubicadoEnDistrito <http://madrid-recarga.linkeddata.es/group06/resource/Distrito/Villa%20de%20Vallecas> ;
+    owl:sameAs <https://wikidata.org/entity/Q16544370> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/ENDESA> a ns1:Operador ;
+    rdfs:label "ENDESA" ;
+    ns1:nombreOperador "ENDESA" .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/TotalEnergies> a ns1:Operador ;
+    rdfs:label "TotalEnergies" ;
+    ns1:nombreOperador "TotalEnergies" ;
+    owl:sameAs <https://wikidata.org/entity/Q154037> .
+
+<http://madrid-recarga.linkeddata.es/group06/resource/Operador/Iberdrola> a ns1:Operador ;
+    rdfs:label "Iberdrola" ;
+    ns1:nombreOperador "Iberdrola" ;
+    owl:sameAs <https://wikidata.org/entity/Q1437502> .
+
