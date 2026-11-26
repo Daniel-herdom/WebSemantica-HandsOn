@@ -1,0 +1,425 @@
+[
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "DISTRITO",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q3032114",
+        "name": "district of Madrid"
+      },
+      "autoMatch": true,
+      "batchSize": 10,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column DISTRITO to type Q3032114"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "BARRIO",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q10267336",
+        "name": "neighborhood of Madrid"
+      },
+      "autoMatch": true,
+      "batchSize": 10,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column BARRIO to type Q10267336"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "BARRIO: puntuación del mejor candidato",
+          "expression": "cell.recon.best.score",
+          "columnName": "BARRIO",
+          "from": 100,
+          "to": 101,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "BARRIO",
+    "similarValue": "Imperial",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3773740",
+      "name": "Imperial",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Emparejar el elemento Imperial (Q3773740) para las celdas que contienen \"Imperial\" en la columna BARRIO"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "BARRIO: puntuación del mejor candidato",
+          "expression": "cell.recon.best.score",
+          "columnName": "BARRIO",
+          "from": 100,
+          "to": 101,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "BARRIO",
+    "similarValue": "Butarque",
+    "judgment": "matched",
+    "match": {
+      "id": "Q390453",
+      "name": "Butarque",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Emparejar el elemento Butarque (Q390453) para las celdas que contienen \"Butarque\" en la columna BARRIO"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "BARRIO: puntuación del mejor candidato",
+          "expression": "cell.recon.best.score",
+          "columnName": "BARRIO",
+          "from": 100,
+          "to": 101,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "BARRIO",
+    "similarValue": "Pilar",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3773964",
+      "name": "El Pilar",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Emparejar el elemento El Pilar (Q3773964) para las celdas que contienen \"Pilar\" en la columna BARRIO"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "BARRIO: puntuación del mejor candidato",
+          "expression": "cell.recon.best.score",
+          "columnName": "BARRIO",
+          "from": 100,
+          "to": 101,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "BARRIO",
+    "similarValue": "Buenavista",
+    "judgment": "matched",
+    "match": {
+      "id": "Q953929",
+      "name": "Buenavista",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Emparejar el elemento Buenavista (Q953929) para las celdas que contienen \"Buenavista\" en la columna BARRIO"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "OPERADOR",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q4830453",
+        "name": "business"
+      },
+      "autoMatch": true,
+      "batchSize": 10,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column OPERADOR to type Q4830453"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "OPERADOR",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q891723",
+        "name": "public company"
+      },
+      "autoMatch": true,
+      "batchSize": 10,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column OPERADOR to type Q891723"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "OPERADOR",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q4830453",
+        "name": "business"
+      },
+      "autoMatch": true,
+      "batchSize": 10,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column OPERADOR to type Q4830453"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "OPERADOR: puntuación del mejor candidato",
+          "expression": "cell.recon.best.score",
+          "columnName": "OPERADOR",
+          "from": 56,
+          "to": 101,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "OPERADOR",
+    "similarValue": "WENEA",
+    "judgment": "matched",
+    "match": {
+      "id": "Q127503074",
+      "name": "Wenea",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Emparejar el elemento Wenea (Q127503074) para las celdas que contienen \"WENEA\" en la columna OPERADOR"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "OPERADOR: puntuación del mejor candidato",
+          "expression": "cell.recon.best.score",
+          "columnName": "OPERADOR",
+          "from": 56,
+          "to": 101,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "OPERADOR",
+    "similarValue": "CC LA VAGUADA",
+    "judgment": "matched",
+    "match": {
+      "id": "Q6465598",
+      "name": "La Vaguada",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Emparejar el elemento La Vaguada (Q6465598) para las celdas que contienen \"CC LA VAGUADA\" en la columna OPERADOR"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "OPERADOR: puntuación del mejor candidato",
+          "expression": "cell.recon.best.score",
+          "columnName": "OPERADOR",
+          "from": 56,
+          "to": 101,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "OPERADOR",
+    "similarValue": "Mercamadrid",
+    "judgment": "matched",
+    "match": {
+      "id": "Q6010695",
+      "name": "Mercamadrid",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Emparejar el elemento Mercamadrid (Q6010695) para las celdas que contienen \"Mercamadrid\" en la columna OPERADOR"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "DISTRITO",
+    "expression": "cell.recon.match.id",
+    "onError": "set-to-blank",
+    "newColumnName": "DISTRITO_WIKIDATA",
+    "columnInsertIndex": 2,
+    "description": "Crear la columna DISTRITO_WIKIDATA en el índice 2 basada en la columna DISTRITO usando la expresión cell.recon.match.id"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "DISTRITO_WIKIDATA",
+    "description": "Eliminar columna DISTRITO_WIKIDATA"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "DISTRITO",
+    "expression": "grel:\"https://wikidata.org/entity/\"+cell.recon.match.id",
+    "onError": "set-to-blank",
+    "newColumnName": "DISTRITO_WIKIDATA",
+    "columnInsertIndex": 2,
+    "description": "Crear la columna DISTRITO_WIKIDATA en el índice 2 basada en la columna DISTRITO usando la expresión grel:\"https://wikidata.org/entity/\"+cell.recon.match.id"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "BARRIO",
+    "expression": "grel:\"https://wikidata.org/entity/\"+cell.recon.match.id",
+    "onError": "set-to-blank",
+    "newColumnName": "BARRIO_WIKIDATA",
+    "columnInsertIndex": 5,
+    "description": "Crear la columna BARRIO_WIKIDATA en el índice 5 basada en la columna BARRIO usando la expresión grel:\"https://wikidata.org/entity/\"+cell.recon.match.id"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "OPERADOR: judgment",
+          "expression": "forNonBlank(cell.recon.judgment, v, v, if(isNonBlank(value), \"(unreconciled)\", \"(blank)\"))",
+          "columnName": "OPERADOR",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "matched",
+                "l": "matched"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "OPERADOR",
+    "expression": "grel:\"https://wikidata.org/entity/\"+cell.recon.match.id",
+    "onError": "set-to-blank",
+    "newColumnName": "OPERADOR_WIKIDATA",
+    "columnInsertIndex": 12,
+    "description": "Crear la columna OPERADOR_WIKIDATA en el índice 12 basada en la columna OPERADOR usando la expresión grel:\"https://wikidata.org/entity/\"+cell.recon.match.id"
+  }
+]
